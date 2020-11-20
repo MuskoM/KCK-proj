@@ -43,6 +43,9 @@ class TextTerminal(WindowInterface):
 
         return key
 
+    def clear(self):
+        self.__stdscr.clear()
+
     def get_screen(self):
         return self.__stdscr
 
