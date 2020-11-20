@@ -1,4 +1,4 @@
-from views import MainMenu, NewsMenu
+from views import MainMenu, NewsMenu, StatisticsMenu
 import curses
 from TextTerminal import TextTerminal, TextColor
 
@@ -12,19 +12,15 @@ class MenuController:
         self.text_color_schemes = TextColor(self.terminal.get_screen())
         self.terminal.initialize()
 
-    def openView(self, current_row_id):
-        return {
-            0: lambda x : self.terminal.print_string("YOLO",0,6),
-        }[current_row_id]
-
     def openMainMenu(self):
-        main_menu = MainMenu()
+        main_menu = MainMenu(self.terminal, self.text_color_schemes)
 
         while 1:
-            main_menu.print_menu(self.current_row, self.terminal, self.text_color_schemes)
+            main_menu.print_menu(self.current_row)
 
             key = self.terminal.get_key_pressed()
-            self.terminal.print_string(str(self.current_row), 0, 5)
+            self.terminal.print_string(str(self.current_row), 0, 4)
+
             if key == curses.KEY_UP:
                 self.terminal.print_string("Key Up", 0, 0)
                 self.current_row = (self.current_row - 1) % 4
@@ -33,10 +29,19 @@ class MenuController:
                 self.current_row = (self.current_row + 1) % 4
             elif key == curses.KEY_ENTER or key in [10, 13]:
                 self.terminal.print_string("Enter pressed", 0, 2)
-                MenuController.openView(self.current_row, self.current_row)
+                if self.current_row == 3:
+                    statistics_menu = StatisticsMenu(self.terminal, self.text_color_schemes)
+                    statistics_menu.print_menu()
             elif key == curses.KEY_END:
                 self.terminal.close()
                 break
+            elif key == curses.KEY_F1:
+                self.terminal.clear()
+                main_menu.print_menu(self.current_row)
+            elif key == curses.KEY_PPAGE:
+                self.terminal.get_screen().scroll(-1)
+            elif key == curses.KEY_NPAGE:
+                self.terminal.get_screen().scroll(1)
 
         self.terminal.close()
 
