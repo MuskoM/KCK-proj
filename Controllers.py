@@ -39,10 +39,9 @@ class MenuController:
                 elif self.current_row == 2:
                     pass
                 elif self.current_row == 3:
-                    self.openMainMenu()
+                    break
             elif key == curses.KEY_END:
-                self.terminal.close()
-                return
+                break
             elif key == curses.KEY_F1:
                 pass
             elif key == curses.KEY_F2:
@@ -101,7 +100,7 @@ class MenuController:
                 self.current_row = (self.current_row + 1) % 5
             elif key == curses.KEY_ENTER or key in [10, 13]:
                 self.terminal.print_string("Enter pressed", 0, 2)
-                self.openMainMenu()
+                break
 
     def get_terminal(self):
         return self.terminal
