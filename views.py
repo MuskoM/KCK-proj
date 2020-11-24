@@ -17,9 +17,10 @@ class MainMenu(Menu):
 
     def __init__(self, stdscr, text_color_schemes):
         super().__init__(stdscr,text_color_schemes)
-        self.menu_list = ['News', 'Statistics', 'About', 'Exit']
+        self.menu_list = ['News', 'Statistics', 'About','Settings', 'Exit']
 
     def print_menu(self, selected_row):
+        self.stdscr.clear()
         h,w = self.stdscr.get_screen().getmaxyx()
         for idx, row in enumerate(self.menu_list):
             if idx == selected_row:
@@ -30,6 +31,13 @@ class MainMenu(Menu):
                 self.stdscr.justify_center(row, h // 4 - len(self.menu_list) + idx)
 
         self.stdscr.print_string("F1 - Menu | END - Exit", w - len("F1 - Menu | END - Exit") -1, h-1)
+
+
+class SettingsMenu(MainMenu):
+
+    def __init__(self, stdscr, text_color_schemes):
+        super().__init__(stdscr, text_color_schemes)
+        self.menu_list = ['Color Scheme', 'Settins 1', 'Settings 2', 'Return', 'Exit']
 
 
 class NewsMenu:
@@ -46,6 +54,20 @@ class AboutMenu:
         self.__stdscr.justify_center("This is an about menu", 3)
 
 
+class Papaj(Menu):
+
+    file = None
+
+    def __init__(self, stdsrc, text_color_schemes):
+        super().__init__(stdsrc, text_color_schemes)
+        self.file = open('papaj.txt')
+
+    def print_papaj(self):
+        for index,line in enumerate(self.file):
+            self.stdscr.justify_center(line,index)
+
+
+
 class StatisticsMenu(Menu):
 
     poland_statistics = {}
@@ -57,7 +79,6 @@ class StatisticsMenu(Menu):
         self.poland_statistics = covid_stats.get_statistics()
         print(self.poland_statistics)
 
-    def print_menu(self):
-        self.stdscr.clear()
-        self.stdscr.justify_center(f"{self.poland_statistics['country']}", 3)
-        self.stdscr.justify_center(f"{self.poland_statistics['new_cases']}", 4)
+    def print_menu(self,selected_row):
+        self.stdscr.justify_center(f"{self.poland_statistics['country']}", 10)
+        self.stdscr.justify_center(f"{self.poland_statistics['new_cases']}", 11)

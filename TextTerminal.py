@@ -50,7 +50,6 @@ class TextTerminal(WindowInterface):
         return self.__stdscr
 
 
-
 class TextColor:
     """
     Class contains a color pallets for a terminal
