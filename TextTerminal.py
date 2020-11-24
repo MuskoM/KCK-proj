@@ -36,6 +36,7 @@ class TextTerminal(WindowInterface):
         h, w = self.__stdscr.getmaxyx()
         x = w // 2 - len(text) // 2
         self.print_string(text, x, y)
+        return x,y
 
     def get_key_pressed(self):
         key = self.__stdscr.getch()
@@ -49,6 +50,13 @@ class TextTerminal(WindowInterface):
     def get_screen(self):
         return self.__stdscr
 
+    def get_raw_input(self,r,c,prompt_string):
+        curses.echo()
+        self.__stdscr.addstr(r,c,prompt_string)
+        self.__stdscr.refresh()
+        input = self.__stdscr.getstr(r+1,c,20)
+        curses.noecho()
+        return input
 
 class TextColor:
     """
@@ -76,8 +84,16 @@ class TextColor:
         curses.start_color()
         curses.init_pair(1, curses.COLOR_WHITE, curses.COLOR_BLACK)
         curses.init_pair(2, curses.COLOR_BLACK, curses.COLOR_WHITE)
+        curses.init_pair(3, curses.COLOR_MAGENTA, curses.COLOR_BLACK)
+        curses.init_pair(4, curses.COLOR_CYAN, curses.COLOR_BLACK)
+        curses.init_pair(5, curses.COLOR_RED, curses.COLOR_BLACK)
+        curses.init_pair(6, curses.COLOR_GREEN, curses.COLOR_BLACK)
         self.__color_pairs['primary'] = 1
         self.__color_pairs['secondary'] = 2
+        self.__color_pairs['text_magenta'] = 3
+        self.__color_pairs['text_cyan'] = 4
+        self.__color_pairs['error'] = 5
+        self.__color_pairs['success'] = 6
 
     def set_text_color_pair(self,color_pair='primary'):
         self.__stdscr.attron(curses.color_pair(self.__color_pairs[color_pair]))
