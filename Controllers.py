@@ -14,10 +14,9 @@ class MenuController:
         self.terminal.initialize()
 
     def openPapaj(self):
-        newpapaj = Papaj(self.terminal,self.text_color_schemes)
+        newpapaj = Papaj(self.terminal, self.text_color_schemes)
         newpapaj.print_papaj()
         time.sleep(5)
-
 
     def openSettingsMenu(self):
         self.terminal.clear()
