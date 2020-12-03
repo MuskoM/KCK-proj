@@ -40,7 +40,7 @@
  [],
  False,
  False,
- 1606239998,
+ 1606993549,
  [('run.exe',
    'c:\\users\\musko\\anaconda3\\envs\\kck-proj\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])

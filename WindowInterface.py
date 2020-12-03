@@ -1,8 +1,8 @@
-
 class WindowInterface:
+    """ Adapter class """
 
     def initialize(self):
-       pass
+        pass
 
     def close(self):
         pass

@@ -2,7 +2,6 @@ from views import MainMenu, NewsMenu, StatisticsMenu,Papaj,SettingsMenu
 import curses
 from TextTerminal import TextTerminal, TextColor
 import time
-import textwrap
 
 
 class MenuController:
@@ -68,6 +67,8 @@ class MenuController:
             elif key == curses.KEY_DOWN:
                 self.current_row = (self.current_row + 1) % 5
             elif key == curses.KEY_ENTER or key in [10, 13]:
+                if self.current_row == 0:
+                    self.openNewsMenu()
                 if self.current_row == 1:
                     self.openStatisticsMenu()
                 elif self.current_row == 2:
@@ -86,14 +87,27 @@ class MenuController:
             elif key == curses.KEY_NPAGE:
                 self.terminal.get_screen().scroll(1)
 
+    def openNewsMenu(self):
+        self.terminal.clear()
+        news_menu = NewsMenu(self.terminal,self.text_color_schemes)
+        while 1:
+            news_menu.print_banner("News_banner.txt")
+            news_menu.print_menu()
+            key = self.terminal.get_key_pressed()
+            if key == curses.KEY_END:
+                self.terminal.clear()
+                break
+
     def openStatisticsMenu(self):
         self.terminal.clear()
-        statistics_menu = StatisticsMenu(self.terminal,self.text_color_schemes)
+        statistics_menu = StatisticsMenu(self.terminal, self.text_color_schemes)
+        input_message = statistics_menu.messages["input_message"]
+        h, w = self.terminal.get_screen().getmaxyx()
 
         while 1:
             statistics_menu.print_banner('statistics_baner.txt')
             statistics_menu.print_menu(self.current_row)
-            choice = self.terminal.get_raw_input(10, 10, "Input a country name")
+            choice = self.terminal.get_raw_input(h//10, w//2 - len(input_message) + 5 , input_message)
             statistics_menu.print_country_data(12,choice)
             key = self.terminal.get_key_pressed()
 
@@ -106,7 +120,6 @@ class MenuController:
                 break
             elif key == curses.KEY_END:
                 self.terminal.clear()
-                statistics_menu.print_banner()
                 break
 
     def get_terminal(self):
