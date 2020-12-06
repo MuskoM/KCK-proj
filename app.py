@@ -141,8 +141,14 @@ class StatisticsForm(npyscreen.ActionForm, npyscreen.SplitForm):
         self.ratio = self.add(npyscreen.TitleSlider, name="New\\active cases ratio %", out_of=50)
         self.nextrely += 1
         self.covid_stats = CovidStatistics()
-        self.new_section = self.add(npyscreen.TitleFixedText, name="Country with highiest number of new cases",
+        self.countries  = self.covid_stats.get_countries()
+        self.new_section = self.add(npyscreen.TitleFixedText, name="Global statistics",
                                     editable=False, color="DEFAULT")
+        self.nextrely +=1
+        self.select_continet = self.add(npyscreen.TitleSelectOne, name="Select Continent", max_height=8, scroll_exit=True,
+                                       values=['Europe','Asia','Australia','North-America','South-America','Africa'])
+        self.get_statistics = self.add(npyscreen.ButtonPress,when_pressed_function=self.get_statistics_function,
+                                       name="Get statistics",)
 
     def on_ok(self):
         stats = self.covid_stats.get_country_stats(self.country.value)
@@ -157,6 +163,16 @@ class StatisticsForm(npyscreen.ActionForm, npyscreen.SplitForm):
 
     def on_cancel(self):
         self.parentApp.switchForm("MAIN")
+
+    def get_statistics_function(self):
+        self.test_text.value = str(self.select_continet.get_selected_objects()[0])
+        continent_stats = self.covid_stats.get_country_stats(self.select_continet.get_selected_objects()[0])
+        npyscreen.notify_confirm(f"New cases: {continent_stats['cases']['new']}\n"
+                                 f"Active cases {continent_stats['cases']['active']}\n"
+                                 f"Critical cases: {continent_stats['cases']['critical']}\n"
+                                 f"Recovered cases: {continent_stats['cases']['recovered']}\n"
+                                 f"Total cases: {continent_stats['cases']['total']}\n",
+                                 f"{self.select_continet.get_selected_objects()[0]}")
 
 
 class AboutForm(npyscreen.ActionForm):
