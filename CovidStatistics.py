@@ -18,17 +18,6 @@ class CovidStatistics:
         'date': None
     }
 
-    def get_countries(self):
-        countries = []
-        response = requests.request("GET", self.url, headers=self.headers)
-        site_json = json.loads(response.text)
-        for country in site_json['response']:
-            countries.append(country['country'])
-        countries.sort()
-        return countries
-
-
-
     def get_statistics(self):
 
         response = requests.request("GET", self.url, headers=self.headers)

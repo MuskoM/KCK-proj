@@ -1,7 +1,41 @@
-New research suggests that two areas of the brain work together in response to serotonin to promote the ability to wait patiently and practice impulse control. This finding may aid the development of targeted treatments for individuals who are less able to suppress impulsive and impatient behavior. Share on Pinterest sudok1 / Getty Images. As the saying goes, “Patience is considered a virtue.” However, for some people, this attribute is challenging to manage, causing issues with relationships, employment, finances, and educational pursuits. Well-documented research already exists on the relationship between serotonin — a neurochemical responsible for feelings of well-being — and social and emotional behaviors, including impulsivity. For instance, one study on mice, which the Columbia University Irving Medical Center and New York State Psychiatric Institute conducted, showed a possible link between a lack of serotonin receptors in the brain and impulsive behavior. As experts do not fully understand the neurological process for regulating patience and impulse control, the researchers behind the new study aimed to look into how serotonin acts on specific regions of the brain to regulate the ability to wait for a desired reward.
-
-The focus narrows to three brain areas The Neural Computation Unit at the Okinawa Institute of Science and Technology Graduate University (OIST) ran the study, which appears in the journal Science Advances. In the study, the researchers focused on three regions of the brain: a brain structure called the nucleus accumbens (NAc), regions of the frontal lobe called the orbitofrontal cortex (OFC), and the medial prefrontal cortex (mPFC). The team chose these brain areas because research shows that damage to them leads to an increase in impulsive behaviors. “Impulse behaviors are intrinsically linked to patience -— the more impulsive an individual is, the less patient — so these brain areas were prime candidates.” – study co-author Dr. Katsuhiko Miyazaki
-
-Previous research sets the stage In a 2018 study appearing in the journal Nature Communications, this same team of scientists investigated what role the dorsal raphe nucleus (DRN), a part of the brain that contains serotonin-releasing neurons, has in promoting a mouse’s ability to wait patiently. They found a causal relationship between the action that serotonin has on this brain region and patience for anticipated rewards.
-
-Serotonin, patience, and the brain To take their previous research a few steps further, the research team used mice genetically engineered to have specialized proteins that release serotonin on exposure to photostimulation. After training the mice to poke their nose inside a hole and wait for a food item, the animals underwent surgery in which researchers implanted an optic fiber into the DRN part of the brain. After dividing the rodents into groups, the researchers then inserted optic fibers in either the NAc, the OFC, or the mPFC parts of the brain. Doing this allowed them to observe how each area responded to serotonin stimulation. After the rodents recovered from the implantation surgery, researchers put 75% of the animals through the waiting task once again while activating a serotonin release through a light stimulation procedure. They presented food to the mice in both fixed and fluctuating time frames. The remaining 25% of the mice went into an omission group that received no rewards or serotonin stimulation. When the research team activated serotonergic neurons in the DRN, the mice displayed improved patience when waiting for future food rewards. Stimulating the OFC was almost as effective as stimulating the DRN in promoting more prolonged waiting. However, triggering the NAc had no effect on the animals’ waiting time. Interestingly, stimulating the mPFC enhanced the rodents’ ability to wait but only when they did not know the food’s arrival time. These results suggest that serotonin in the mPFC affects the animal’s ability to evaluate the time required to wait for a reward, while the neurochemical’s presence in the OFC assists in their overall assessment of a delayed reward situation. The study authors say that the serotonin mostly enhanced the animals’ waiting time if they were confident that the reward would eventually appear but were not sure exactly when it would come. Dr. Miyazaki explains: “This confirmed the idea that these two brain areas are calculating the probability of a reward independently from each other and that these independent calculations are then combined to ultimately determine how long the mice will wait.”
+Brain regions found where serotonin boosts patience, impulse control
+New research suggests that two areas of the brain work together in response to serotonin to promote the ability to wait
+patiently and practice impulse control. This finding may aid the development of targeted treatments for individuals who
+are less able to suppress impulsive and impatient behavior. Share on Pinterest sudok1 / Getty Images. As the saying
+goes, “Patience is considered a virtue.” However, for some people, this attribute is challenging to manage, causing
+issues with relationships, employment, finances, and educational pursuits. Well-documented research already exists on
+the relationship between serotonin — a neurochemical responsible for feelings of well-being — and social and emotional
+behaviors, including impulsivity. For instance, one study on mice, which the Columbia University Irving Medical Center
+and New York State Psychiatric Institute conducted, showed a possible link between a lack of serotonin receptors in the
+brain and impulsive behavior. As experts do not fully understand the neurological process for regulating patience and
+impulse control, the researchers behind the new study aimed to look into how serotonin acts on specific regions of the
+brain to regulate the ability to wait for a desired reward.  The focus narrows to three brain areas The Neural
+Computation Unit at the Okinawa Institute of Science and Technology Graduate University (OIST) ran the study, which
+appears in the journal Science Advances. In the study, the researchers focused on three regions of the brain: a brain
+structure called the nucleus accumbens (NAc), regions of the frontal lobe called the orbitofrontal cortex (OFC), and the
+medial prefrontal cortex (mPFC). The team chose these brain areas because research shows that damage to them leads to an
+increase in impulsive behaviors. “Impulse behaviors are intrinsically linked to patience -— the more impulsive an
+individual is, the less patient — so these brain areas were prime candidates.” – study co-author Dr. Katsuhiko Miyazaki
+Previous research sets the stage In a 2018 study appearing in the journal Nature Communications, this same team of
+scientists investigated what role the dorsal raphe nucleus (DRN), a part of the brain that contains serotonin-releasing
+neurons, has in promoting a mouse’s ability to wait patiently. They found a causal relationship between the action that
+serotonin has on this brain region and patience for anticipated rewards.  Serotonin, patience, and the brain To take
+their previous research a few steps further, the research team used mice genetically engineered to have specialized
+proteins that release serotonin on exposure to photostimulation. After training the mice to poke their nose inside a
+hole and wait for a food item, the animals underwent surgery in which researchers implanted an optic fiber into the DRN
+part of the brain. After dividing the rodents into groups, the researchers then inserted optic fibers in either the NAc,
+the OFC, or the mPFC parts of the brain. Doing this allowed them to observe how each area responded to serotonin
+stimulation. After the rodents recovered from the implantation surgery, researchers put 75% of the animals through the
+waiting task once again while activating a serotonin release through a light stimulation procedure. They presented food
+to the mice in both fixed and fluctuating time frames. The remaining 25% of the mice went into an omission group that
+received no rewards or serotonin stimulation. When the research team activated serotonergic neurons in the DRN, the mice
+displayed improved patience when waiting for future food rewards. Stimulating the OFC was almost as effective as
+stimulating the DRN in promoting more prolonged waiting. However, triggering the NAc had no effect on the animals’
+waiting time. Interestingly, stimulating the mPFC enhanced the rodents’ ability to wait but only when they did not know
+the food’s arrival time. These results suggest that serotonin in the mPFC affects the animal’s ability to evaluate the
+time required to wait for a reward, while the neurochemical’s presence in the OFC assists in their overall assessment of
+a delayed reward situation. The study authors say that the serotonin mostly enhanced the animals’ waiting time if they
+were confident that the reward would eventually appear but were not sure exactly when it would come. Dr. Miyazaki
+explains: “This confirmed the idea that these two brain areas are calculating the probability of a reward independently
+from each other and that these independent calculations are then combined to ultimately determine how long the mice will
+wait.”

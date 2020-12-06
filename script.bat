@@ -2,7 +2,5 @@ ECHO OFF
 
 mkdir sites\articles
 mkdir sites\gov_articles
-echo. > sites\article_titles.txt
-echo. > sites\article_links.txt
+mkdir sites\my_articles
 echo. > sites\articles\article0.txt
-echo. > sites\article_titles_gov.txt

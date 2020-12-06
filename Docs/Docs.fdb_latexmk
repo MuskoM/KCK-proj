@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber Docs"] 1607273599 "Docs.bcf" "Docs.bbl" "Docs" 1607275223
+["biber Docs"] 1607273599 "Docs.bcf" "Docs.bbl" "Docs" 1607284723
   "Docs.bcf" 1607275223 106645 11a6860dcf7de220746ce55e7342be76 "pdflatex"
   (generated)
   "Docs.bbl"
   "Docs.blg"
-["pdflatex"] 1607275220 "c:/Users/Musko/PycharmProjects/KCK-proj/Docs/Docs.tex" "Docs.pdf" "Docs" 1607275223
+["pdflatex"] 1607275220 "c:/Users/Musko/PycharmProjects/KCK-proj/Docs/Docs.tex" "Docs.pdf" "Docs" 1607284723
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993058356 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993058358 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993058360 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -102,7 +102,7 @@
   "Docs.aux" 1607275223 3316 bb06a4d9ede537b08e47ebdd7d63c276 "pdflatex"
   "Docs.bbl" 1607273601 0 d41d8cd98f00b204e9800998ecf8427e "biber Docs"
   "Docs.run.xml" 1607275223 2261 56fbbb53130458262ada2d5f0abb8722 "pdflatex"
-  "Docs.tex" 1607275219 9009 a1a1ba3e3c502a83628a669e3cf403b0 ""
+  "Docs.tex" 1607284722 9009 a1a1ba3e3c502a83628a669e3cf403b0 ""
   "Docs.toc" 1607275223 1516 13f1e2491158f6f5af343955c41541f3 "pdflatex"
   "_minted-Docs/30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex" 1607271330 370 007cc8b4bccd364ea5be1f1f0e7483fa ""
   "_minted-Docs/53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex" 1607271472 127 4ef0631df06005e0d3e65626d5f030cb ""
@@ -111,7 +111,7 @@
   "_minted-Docs/A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex" 1607269864 158 a8efdf13d9e869a6e7bf68e14e3e3d8f ""
   "_minted-Docs/default-pyg-prefix.pygstyle" 1607269630 7990 3ce1fbc763e3e2c748310f4fe31722b6 ""
   "_minted-Docs/default.pygstyle" 1607269630 9376 f200be7fc0b7de2461cca28cb35b1427 ""
-  "c:/Users/Musko/PycharmProjects/KCK-proj/Docs/Docs.tex" 1607275219 9009 a1a1ba3e3c502a83628a669e3cf403b0 ""
+  "c:/Users/Musko/PycharmProjects/KCK-proj/Docs/Docs.tex" 1607284722 9009 a1a1ba3e3c502a83628a669e3cf403b0 ""
   "images/download_articles.png" 1607273038 13239 fba03225cd7d2f2deecc36b8c5d320b4 ""
   "images/first_article.png" 1607273428 38650 01d1499f5e4201cb3c63840b4471bb85 ""
   "images/main_screen_first_run.png" 1607272164 11437 219e869c191309999aa7613868325966 ""
@@ -119,9 +119,9 @@
   "images/news_screen_sub_menu.png" 1607272751 15914 7d1668142f1b22388e79c1482dd8a978 ""
   "images/next_article.png" 1607273662 48223 e9c3d71c5d69ea6dd52cf2b54a34f01f ""
   (generated)
-  "Docs.run.xml"
-  "Docs.log"
+  "Docs.bcf"
   "Docs.toc"
   "Docs.pdf"
-  "Docs.bcf"
+  "Docs.run.xml"
+  "Docs.log"
   "Docs.aux"
