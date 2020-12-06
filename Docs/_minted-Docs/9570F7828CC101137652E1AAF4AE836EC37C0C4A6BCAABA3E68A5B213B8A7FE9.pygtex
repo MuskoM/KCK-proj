@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip \PYGZhy{}\PYGZhy{}version}
+pip 19.2.3 from C:\PYGZbs{}Users\PYGZbs{}..\PYGZbs{}lib\PYGZbs{}site\PYGZhy{}packages\PYGZbs{}pip (python 3.7)
+\end{Verbatim}

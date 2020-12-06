@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip install npyscreen}
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip install newspaper}
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip install bs4}
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip install requests}
+\end{Verbatim}

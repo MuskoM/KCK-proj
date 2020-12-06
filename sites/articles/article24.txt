@@ -1,0 +1,19 @@
+Stay informed with live updates on the current COVID-19 outbreak and visit our coronavirus hub for more advice on prevention and treatment.
+
+The research, published in the Proceedings of the National Academy of Sciences of the United States of America , may be valuable in helping people determine the most effective measures to reduce the chances of infection based on the type of venue or event.
+
+In a new study, scientists develop an equation that can help determine the likely number of people contracting SARS-CoV-2 from a single other person with the virus at different types of events.
+
+The sudden emergence and rapid spread of COVID-19 has had a devastating effect on the health of millions of people, with over 1.4 million deaths and reports of long-term health consequences for some people who survive the infection.
+
+In the absence of a safe and effective vaccine and with limited treatment options, governments across the world have instigated a range of non-pharmaceutical measures to try to reduce the infection rate of the pandemic.
+
+These include maintaining distance from other people, regularly washing hands, wearing face masks, limiting contact with others to specific bubbles of people, and working from home.
+
+While reducing the number of people with a SARS-CoV-2 infection and therefore the number of those who have died or become seriously ill, these measures have also significantly disrupted global economies, cultures, and societies.
+
+One reason for this is that, because of the novelty of the virus, governments have had little information to go on when deciding where and when to implement measures. Also, experts are still trying to understand which methods are likely to be most effective depending on the circumstance.
+
+As time has gone on, more information about how the virus spreads has come to light. This has enabled the researchers behind the present study to analyze reported cases of the spread of COVID-19 at a variety of event types.
+
+As a consequence, the researchers were able to develop an equation that may help people estimate the likely number of infections resulting from one person with the virus attending an event.

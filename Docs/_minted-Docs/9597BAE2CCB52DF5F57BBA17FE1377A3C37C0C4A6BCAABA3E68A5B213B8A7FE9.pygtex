@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+C\PYG{p}{:}\PYG{n+nl}{\PYGZbs{}Users}\PYG{c+c1}{\PYGZgt{} pip install nazwa\PYGZus{}modułu}
+\end{Verbatim}

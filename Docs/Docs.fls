@@ -1,0 +1,657 @@
+PWD c:\Users\Musko\PycharmProjects\KCK-proj\Docs
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Musko\PycharmProjects\KCK-proj\Docs\Docs.tex
+OUTPUT Docs.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT nul:.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT Docs.aex
+INPUT .\Docs.aex
+INPUT Docs.aex
+INPUT .\Docs.aux
+INPUT Docs.aux
+INPUT Docs.aux
+OUTPUT Docs.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\polish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\polish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\polish.lbx
+OUTPUT Docs.bcf
+INPUT Docs.bbl
+INPUT .\Docs.bbl
+INPUT Docs.bbl
+INPUT .\Docs.bbl
+INPUT .\Docs.bbl
+INPUT Docs.bbl
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT .\Docs.toc
+INPUT Docs.toc
+INPUT Docs.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+OUTPUT Docs.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+OUTPUT Docs.pdf
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+OUTPUT Docs.pyg
+INPUT .\_minted-Docs\default-pyg-prefix.pygstyle
+INPUT _minted-Docs\default-pyg-prefix.pygstyle
+INPUT .\_minted-Docs\default-pyg-prefix.pygstyle
+INPUT _minted-Docs\default-pyg-prefix.pygstyle
+INPUT .\_minted-Docs\default-pyg-prefix.pygstyle
+INPUT _minted-Docs\default-pyg-prefix.pygstyle
+INPUT .\_minted-Docs\default-pyg-prefix.pygstyle
+INPUT _minted-Docs\default-pyg-prefix.pygstyle
+INPUT .\_minted-Docs\default.pygstyle
+INPUT _minted-Docs\default.pygstyle
+INPUT .\_minted-Docs\default.pygstyle
+INPUT _minted-Docs\default.pygstyle
+INPUT .\_minted-Docs\default.pygstyle
+INPUT _minted-Docs\default.pygstyle
+INPUT .\_minted-Docs\default.pygstyle
+INPUT _minted-Docs\default.pygstyle
+INPUT .\Docs.pyg
+INPUT .\_minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\A511959EE3410F7F724B10CF586BCAECC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecit1000.tfm
+OUTPUT Docs.pyg
+INPUT .\Docs.pyg
+INPUT .\_minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9570F7828CC101137652E1AAF4AE836EC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+OUTPUT Docs.pyg
+INPUT .\Docs.pyg
+INPUT .\_minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\9597BAE2CCB52DF5F57BBA17FE1377A3C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+OUTPUT Docs.pyg
+INPUT .\Docs.pyg
+INPUT .\_minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\30FF41FA2325C733DACEE600D1852C07C37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+OUTPUT Docs.pyg
+INPUT .\Docs.pyg
+INPUT .\_minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\_minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT _minted-Docs\53E06FF9BD87AECF5E53FF81A010D91BC37C0C4A6BCAABA3E68A5B213B8A7FE9.pygtex
+INPUT .\images\main_screen_first_run.png
+INPUT .\images\main_screen_first_run.png
+INPUT images\main_screen_first_run.png
+INPUT .\images\main_screen_first_run.png
+INPUT .\images\main_screen_first_run.png
+INPUT .\images\main_screen_first_run.png
+INPUT .\images\main_screen_first_run.png
+INPUT .\images\news_screen_menu.png
+INPUT .\images\news_screen_menu.png
+INPUT images\news_screen_menu.png
+INPUT .\images\news_screen_menu.png
+INPUT .\images\news_screen_menu.png
+INPUT .\images\news_screen_menu.png
+INPUT .\images\news_screen_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT images\news_screen_sub_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT .\images\news_screen_sub_menu.png
+INPUT .\images\download_articles.png
+INPUT .\images\download_articles.png
+INPUT images\download_articles.png
+INPUT .\images\download_articles.png
+INPUT .\images\download_articles.png
+INPUT .\images\download_articles.png
+INPUT .\images\download_articles.png
+INPUT .\images\first_article.png
+INPUT .\images\first_article.png
+INPUT images\first_article.png
+INPUT .\images\first_article.png
+INPUT .\images\first_article.png
+INPUT .\images\first_article.png
+INPUT .\images\first_article.png
+INPUT .\images\next_article.png
+INPUT .\images\next_article.png
+INPUT images\next_article.png
+INPUT .\images\next_article.png
+INPUT .\images\next_article.png
+INPUT .\images\next_article.png
+INPUT .\images\next_article.png
+INPUT Docs.aux
+INPUT .\Docs.pyg
+INPUT Docs.pyg
+INPUT Docs.run.xml
+OUTPUT Docs.run.xml
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecit1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecit1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\Musko\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk

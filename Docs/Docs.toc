@@ -1,0 +1,34 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Opis projektu}{1}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{1}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Opis funkcjonalności}{1}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{1}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Instrukcje}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Instrukcja instalacji}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Instrukcja konfiguracji}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Instrukcja użytkownika}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Zagadnienia projektowe}{7}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Wnioski}{7}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Samoocena}{7}{}%
