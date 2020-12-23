@@ -2,7 +2,6 @@ import npyscreen
 from News import News
 from CovidStatistics import CovidStatistics
 import os
-import re
 
 
 class MyApp(npyscreen.NPSAppManaged):
@@ -203,16 +202,20 @@ class MyArticles(npyscreen.FormWithMenus, npyscreen.ActionForm):
             npyscreen.notify_wait("There is no previous article to go to!", "ERROR!", form_color="DANGER")
 
     def get_my_articles(self):
-        self.titles.clear()
-        self.articles.clear()
-        self.page_no.value = 0
-        for file in os.listdir('sites/my_articles'):
-            article_file = open('sites/my_articles/' + file, encoding='utf-8')
-            self.titles.append(article_file.readline())
-            self.articles.append(article_file.readlines())
-        self.page.values = self.articles[0]
-        self.title.value = self.titles[0]
-        self.page_no.out_of = len(self.articles)
+         try:
+            self.titles.clear()
+            self.articles.clear()
+            self.page_no.value = 0
+            for file in os.listdir('sites/my_articles'):
+                article_file = open('sites/my_articles/' + file, encoding='utf-8')
+                self.titles.append(article_file.readline())
+                self.articles.append(article_file.readlines())
+            self.page.values = self.articles[0]
+            self.title.value = self.titles[0]
+            self.page_no.out_of = len(self.articles)
+         except IndexError:
+             npyscreen.notify_wait("Unexpected error ocured, please check the link you set for the download", "ERROR!",
+                                   form_color="DANGER")
 
 
 class StatisticsForm(npyscreen.ActionForm, npyscreen.SplitForm):
@@ -239,15 +242,20 @@ class StatisticsForm(npyscreen.ActionForm, npyscreen.SplitForm):
                                        name="Get Continent Statistics", )
 
     def get_country_stats(self):
-        stats = self.covid_stats.get_country_stats(self.country.value)
+        stats = self.covid_stats.get_country_stats(self.country.value.capitalize())
         if stats is None:
             npyscreen.notify_confirm("Country not found", "ERROR", form_color="STANDOUT")
         else:
             self.population.value = str(stats['population'])
+            self.population.display()
             self.new_cases.value = str(stats['cases']['new'])
+            self.new_cases.display()
             self.active_cases.value = str(stats['cases']['active'])
+            self.active_cases.display()
             self.cases_per_million.value = str(stats['cases']['1M_pop'])
+            self.cases_per_million.display()
             self.ratio.value = int(int(stats['cases']['new'][1:]) / stats['cases']['active'] * 100)
+            self.ratio.display()
 
     def on_cancel(self):
         self.parentApp.switchForm("MAIN")

@@ -22,7 +22,9 @@
 
 \paragraph{}
 
-Projekt ten ma na celu ułatwienie agregację informacji na temat zdrowia oraz sytuacji związanej z obecnie panującym wirusem SARS-CoV-19. Zbiera on informacje ze zdefiniowanych wcześniej stron i udostępnia je użytkownikowi w skompresowanej formie, bez reklam oraz innych "zapychaczy" miejsca na ekranie
+Projekt ten ma na celu ułatwienie agregację informacji na temat zdrowia oraz sytuacji związanej z 
+obecnie panującym wirusem SARS-CoV-19. Zbiera on informacje ze zdefiniowanych wcześniej stron i udostępnia je 
+użytkownikowi w skompresowanej formie, bez reklam oraz innych 'zapychaczy' miejsca na ekranie.
 
 \section{Opis funkcjonalności}
 
@@ -32,7 +34,7 @@ Aplikacja ma dwa główne zadania:
     \item Pobierać oraz wyświetlać artykuły ze zdefiniowanych wcześniej stron
     \item Dostarczać danych statystycznych na temat wirusa SARS-CoV-19
 \end{itemize}
-Dostarcza również podstawowe funkcje konfiguracyjne takie jak zmiana kolorów powiadomień
+Dostarcza również podstawowe funkcje konfiguracyjne takie jak zmiana kolorów terminalu
 
 \section{Instrukcje}
 
@@ -46,6 +48,14 @@ Aby zainstalować aplikację należy rozpakować archiwum app.zip w miejscu wybr
 Archiwum to powinno zawierać:
 \begin{itemize}
     \item sites - przechowywane są tutaj pobrane artykuły
+    \begin{itemize}
+        \item articles - folder z artykułami
+        \begin{itemize}
+            \item article0.txt - obowiązkowy plik artykułu, punkt wejściowy
+        \end{itemize}
+        \item gov\_articles - folder z artykułami
+        \item my\_articles - folder z artykułami  
+    \end{itemize}
     \item app.py - odpowiada za wygląd aplikacji
     \item CovidStatistics.py - narzędzie do pobierania i obróbki danych statystycznych
     \item main.py - plik główny
@@ -75,7 +85,6 @@ pip 19.2.3 from C:\Users\..\lib\site-packages\pip (python 3.7)
 Tak samo jak w przypadku interpreter powinniśmy zobaczyć wersję narzędzia pip. W razie problemów odsyłam do dokumentacji języka Python:\\ 
 https://docs.python.org/3/using/index.html
 
-\pagebreak
 A więc przejdźmy do zainstalowania modułów robimy to za pomocą komendy:
 
 \begin{minted}[frame=lines]{bat}
@@ -86,8 +95,6 @@ W naszym przypadku będą to komendy:
 \begin{minted}[frame=lines]{bat}
 C:\Users> pip install npyscreen
 C:\Users> pip install newspaper
-C:\Users> pip install bs4
-C:\Users> pip install requests
 \end{minted}
 
 Gdy zainstalujemy potrzebne moduły możemy przejść do uruchomienia aplikacji. 
@@ -102,11 +109,14 @@ C:\Users> python main.py
 
 W przypadku tej aplikacji konfiguracja nie powinna być konieczna, gdyż wszystkie foldery oraz pliki powinny znajdować się już w archiwum.
 Natomiast jeżeli po rozpakowaniu archiwum wciąż mamy błąd z brakującymi plikami, należy uruchomić script.bat służy on do odtworzenia ścieżek z plikami oraz folderów.
-Jeżeli natomiast nie mamy w archiwum któregoś z plików .py wylistowanych w Podpunkcie 3.1 tej dokumentacji należy skontaktować się z twórcą aplikacji 
+Jeśli skrypt nie funkcjonuje poprawnie należy odtworzyć drzewo plików jak w Podpunkcie 3.1 tej dokumentacji.
+Jeżeli natomiast nie mamy w archiwum któregoś z plików .py należy skontaktować się z twórcą aplikacji 
 
 \pagebreak
 
 \subsection{Instrukcja użytkownika}
+
+\subsubsection{Czytnik Artykułów}
 
 Po pierwszym uruchomieniu aplikacji zobaczymy ekran główny\\ \\
 \includegraphics[width=\textwidth]{images/main_screen_first_run.png}
@@ -121,7 +131,7 @@ Po wybraniu tej opcji powinniśmy zobaczyć ekran z tekstem "There is no article
 \pagebreak
 
 \paragraph{}
-Następnie wybieramy jedną z opcji Medical Articles, bądź Government Articles, powinno nam się ukazać podmenu z dwiema opcjami:\\
+Następnie wybieramy jedną z opcji Medicalnews Articles, bądź TVN24 Articles, powinno nam się ukazać podmenu z dwiema opcjami:\\
 \includegraphics[width=\textwidth]{images/news_screen_sub_menu.png}
 
 \begin{itemize}
@@ -140,13 +150,47 @@ Po zatwierdzeniu powinniśmy zobaczyć pierwszy artykuł:\\
 
 \includegraphics[width=\textwidth]{images/first_article.png}\\
 
-Artykuł przewijamy strzałkami Góra i Dół oraz aby przejść do następnego artykułu należy wybrać odpowiednią opcję z menu kontekstowego.
+Artykuł przewijamy strzałkami Góra i Dół oraz aby przejść do następnego artykułu należy wybrać odpowiednią opcję z menu kontekstowego. Jeżeli nie widzisz całych linii tekstu spróbuj powiększyć terminal.
 
 \includegraphics[width=\textwidth]{images/next_article.png}
 
 Oto następny artykuł, zauważmy że nad artykułem znajduje się pasek który podowiada w ile artykułów już przeczytaliśmy
 
-Aby wyjść z tego widoku należy wcisnąć ENTER i wybrać Cancel w prawym dolnym rogu
+Aby wyjść z tego widoku należy wcisnąć ENTER i wybrać Cancel w prawym dolnym rogu.
+
+\paragraph{}
+Ostatnią opcją czytnika artykułów jest zczytywanie artykółów z podanego przez użytkownika linku, opcja ta pozwala na pobranie 15 artykułów
+znajdujących się na stronie, zapisanie ich na dysku oraz wyświetlenie. UWAGA! Nie wszystkie strony wspierają pobieranie artykułów. \\
+\includegraphics[width=\textwidth]{images/my_articles_url.png}\\
+
+Wciskając ENTER przechodzimy do artykułu gdzie możemy przewijać go za pomocą strzałek, następne wciśnięcie klawisza ENTER pozwala nam
+na pobranie artykułów wciskając OK, bądź zmianę linku wciskając Cancel
+
+\includegraphics[width=\textwidth]{images/my_articles_confirm.png}\\
+
+\pagebreak
+
+\subsubsection{Statystyki wirusa SARS-Cov-19}
+
+\paragraph{}
+Następną główną funkcjonalnością jest pobieranie danych statystycznych z COVID-19 API, oraz wyświetlanie ich w naszej aplikacji.
+
+\includegraphics[width=\textwidth]{images/Statistics.png}\\
+
+\paragraph{}
+Aby pobrać dane statystyczne kraju należy wpisać nazwę kraju w polu Country i następnie wybrać Get Country Statistics i wcisnąć ENTER,
+jeżeli źle wpisaliśmy nazwę kraju zostaniemy o tym powiadomieni
+
+\includegraphics[width=\textwidth]{images/statistics_filled.png}\\
+
+Możemy też pobrać dane na temat wybranego kontynentu poprzez zanzaczenie odpowiedniej pozycji i wybranie opcji Get Continent Statistics,
+Z ekranu wychodzimy wybierając opcję Cancel w prawym dolnym rogu ekranu.
+
+\subsubsection{Ustawienia}
+
+Aplikacja ma również ograniczone opcje konfiguracji, w ustawieniach możemy zmienić kolory wyświetlania aplikacji w terminalu. Dostępne mamy
+4 schematy kolorów do wyboru. Wbieramy je przy pomocy strzałek zatwierdzamy klawiszem ENTER aby zastosować zmiany należy wybrać opcję OK w prawym dolnym rogu ekranu.\\
+\includegraphics[width=\textwidth]{images/settings.png}\\
 
 
 \section{Zagadnienia projektowe}
@@ -170,8 +214,7 @@ kompatybilności, gdyż w z decydowanej większości przypadków urządzenia prz
 interfejsów tekstowym praktycznie wszędzie
 
 \subsection{Samoocena}
-Uważam, że w przypadku tego projektu wiele rzeczy można jeszcze poprawić oraz rozbudować rozbudowanie konfiguracji aplikacji. Ze względu na czynniki niezależne od mojej osoby
-nie udało mi się wyciągnąć pełni potencjału z pomysłu jaki sobie narzuciłem. Jest to dobra aplikacja jednak daleka od ideału. Jeżeli miałbym sobie wystawić ocenę
-było by to coś w granicach 3,5 - 4.
+Uważam, że w przypadku tego projektu wiele rzeczy można jeszcze poprawić oraz rozbudować, np. konfiguracja aplikacji. Jest to dobra aplikacja jednak daleka od ideału. Jeżeli miałbym wystawić sobie ocenę
+było by to 4.
 
 \end{document}

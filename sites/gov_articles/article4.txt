@@ -1,40 +1,20 @@
-Prawie 10 000 zmarłych chorujący na COVID-19 w ciągu trzech tygodni. Epidemia w Polsce
-W Polsce trwa epidemia COVID-19. Trzeci tydzień z rzędu Ministerstwo Zdrowia odnotowało ponad 3000 zgonów wśród osób
-zakażonych koronawirusem. Równocześnie - jak wynika ze statystyk resortu - w ostatnich dniach przeprowadzono najmniej
-testów od pierwszej połowy października. Przeanalizowaliśmy sytuację epidemiologiczną w naszym kraju od 5 października
-do 6 grudnia.  W ciągu ostatnich trzech tygodni w Polsce zmarło 9741 osób zakażonych SARS-CoV-2.  Łącznie w Polsce
-zakażenie potwierdzono u 1 063 449 osób, spośród których 20 089 zmarło. Wyzdrowiało 706 720 chorych. Od początku
-pandemii przeprowadzono 6 456 364 testy.  Ile osób zmarło?  W ciągu ostatnich siedmiu dni (między 30 listopada a 6
-grudnia) zmarło w naszym kraju łącznie 3060 osób. W poprzednim tygodniu (23-29 listopada) zmarło łącznie 3411 osób
-zakażonych koronawirusem. W okresie między 16 a 22 listopada zmarło 3270 zakażonych.  Między 9 a 15 listopada życie
-straciło łącznie 2476 zakażonych. W dniach 2-8 listopada odnotowano łącznie 2089 zgonów. W dniach 26 października - 1
-listopada zmarłych z powodu COVID-19 było w Polsce 1345. Między 19 a 25 października zmarło 865 zakażonych SARS-CoV-2.
-Tydzień wcześniej (12-18 października) zmarło 569 osób z koronawirusem. W ciągu siedmiu dni 4 a 11 października
-Ministerstwo Zdrowia poinformowało o łącznie 374 zgonach osób zakażonych.  Większość zmarłych miała choroby
-współistniejące. To zazwyczaj choroby kardiologiczne, układu odpornościowego, układu oddechowego, onkologiczne,
-metaboliczne, choroby nerek, cukrzyca albo otyłość. W połączeniu z koronawirusem mogą znacząco pogarszać stan pacjenta.
-Ile jest osób zakażonych?  Tydzień w tydzień Ministerstwo Zdrowia odnotowuje także duże liczby zakażeń koronawirusem.  W
-ostatnim tygodniu (30 listopada - 6 grudnia) poinformowano łącznie o 78 374 infekcjach, jednak liczba dodanych do siebie
-dziennych bilansów z ostatnich siedmiu dni to 78 376. Skąd różnica dwóch zakażeń? Ministerstwo Zdrowia w codziennych
-raportach o nowych zakażeniach i zgonach publikuje następujący komunikat: "W związku z korektami wprowadzanymi na
-bieżąco przez laboratoria w systemie EWP, globalna liczba zakażeń od początku pandemii może nie być sumą kolejnych
-dziennych zakażeń".  W ostatnim tygodniu wykonano 244 528 testów.  Między 23 a 29 listopada stwierdzono 101 150
-przypadków koronawirusa. W okresie tym wykonano 267 744 testy.  Do sumy zakażeń wykrytych w tygodniu między 23 a 29
-listopada nie dodajemy 22 594 przypadków, które we wtorek 24 listopada dodano do całościowego bilansu dodano zakażeń, by
-wyrównać nieścisłości wynikające z błędów w raportowaniu infekcji przez stacje epidemiologiczne w ostatnich tygodniach.
-O zagubionych w raportach ponad 22 tysiącach przypadków poinformował w poniedziałek GIS. Pełniący obowiązki główny
-inspektor sanitarny Krzysztof Saczka tłumaczył wówczas, że jest to łączna liczba zakażeń z kilku tygodni.  Jak zmieniała
-się liczba osób zmarłych z COVID-19 w ostatnich tygodniach TVN24  W tygodniu między 16 a 22 listopada - bez danych,
-które GIS doliczył 24 listopada - wykryto łącznie 148 970 infekcji. W tym samym czasie wykonano 333 964 testy.  W
-tygodniu 9-15 listopada wykryto łącznie 166 547 zakażeń i wykonano 368 923 testy.  Między 2 a 8 listopada odnotowano 166
-523 przypadki koronawirusa, przy 477 828 wykonanych testach.  W ciągu siedmiu dni od 26 października do 1 listopada
-przybyło 126 214 zakażonych. Wykonano wtedy łącznie 432 775 testów.  W tygodniu 19-25 października wykryto 77 922
-infekcje, przy 358 170 przeprowadzonych badaniach.  Między 12 a 18 października potwierdzono 49 950 przypadków COVID-19,
-a testów wykonano 304 402.  Tydzień między 5 a 11 października zwiększył statystyki koronawirusa o kolejnych 25 742
-zainfekowanych. W tym czasie przeprowadzono 220 749 testów.  Średnia tygodniowa liczba wykonanych testów na obecność
-koronawirusa TVN24  Pierwsze ofiary koronawirusa w Polsce  12 marca poinformowano, że pierwszą śmiertelną ofiarą
-zakażoną koronawirusem była 56-letnia kobieta, która przebywała na oddziale zakaźnym poznańskiego szpitala. Od początku
-jej stan był ciężki. Pacjentka była podłączona do respiratora i utrzymywana w stanie śpiączki farmakologicznej. Kobieta
-już wcześniej miała poważne problemy zdrowotne. Pierwszym mężczyzną, który zmarł w związku z zakażeniem koronawirusem
-był 73-latek. Zmarł 13 marca - w stanie ciężkim przebywał we wrocławskim szpitalu i miał choroby współistniejące.
-Autor:momo, mart, pp/adso, now/dap  Źródło: tvn24.pl
+Spadła liczba zakażeń koronawirusem na Mazowszu
+Dobowy bilans nowych zakażeń koronawirusem na Mazowszu jest najniższy od połowy października. W poniedziałek resort
+zdrowia poinformował o 609 nowych infekcjach SARS-CoV-2. Jedna trzecia spośród nich dotyczy Warszawy.  Poniedziałkowy
+raport Ministerstwa Zdrowia mówi o 4423 nowych przypadkach zakażenia koronawirusem. Zmarły 92 osoby, u których
+stwierdzono infekcję SARS-CoV-2. U dziesięciu z nich COVID-19 wskazano jako bezpośrednią przyczynę zgonu. Natomiast
+śmierć 82 osób nastąpiła z powodu współistnienia COVID-19 z innymi schorzeniami. Łącznie od początku pandemii w Polsce
+potwierdzono zakażenie u 1 067 870 osób, spośród których 20 181 zmarło.  Ostatniej doby wykonano 20,2 tysiąca testów na
+obecność koronawirusa. Z zestawienia województw wynika, że najwięcej pozytywnych wyników otrzymali mieszkańcy Mazowsza
+(609). Kolejne na liście były województwa zachodniopomorskie (529) i wielkopolskie (424).  Dobowy bilans pandemii na
+Mazowszu z 7 grudnia jest najniższy od połowy października. Mniej nowych zakażeń wykryto ostatnio 13 października i było
+ich wówczas 552. Na początku minionego tygodnia po raz pierwszy od października liczba nowych infekcji spadła poniżej
+tysiąca. Ten nagły spadek został zachwiany w środę, od której znów codziennie potwierdzano ponad tysiąc zakażeń. Ale od
+czwartku ich liczba zaczęła systematycznie spadać.  Spadła też dobowa liczba zgonów. W piątek przekazano informację o
+śmierci 85 osób, w sobotę - 45, niedzielę - 23, natomiast w poniedziałek - 18.  Spada liczba infekcji w Warszawie
+Liczba nowych zakażeń koronawirusem w Warszawie jest najniższa od początku grudnia. Ostatniej doby obecność wirusa SARS-
+CoV-2 w organizmie wykryto u 212 warszawiaków. Od połowy listopada nie przekroczono tysiąca nowych infekcji dziennie,
+natomiast 24 listopada ich liczba po raz pierwszy od ponad miesiąca spadła poniżej pół tysiąca.  Nie są znane statystyki
+dotyczące 23 listopada, ponieważ w tamtym czasie zmienił się sposób raportowania. Dotychczas codzienne podsumowania
+publikowane były na stronie Powiatowej Stacji Sanitarno-Epidemiologicznej. Od tamtej pory raporty z powiatów można
+znaleźć wyłącznie w serwisie rządowym.  Autor:kk/r  Źródło: tvnwarszawa.pl
