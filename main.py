@@ -8,8 +8,9 @@ if __name__ == '__main__':
     # App = MyApp()
     # App.run()
     root = tk.Tk()
+    root.tk.call('lappend', 'auto_path', './awthemes-10.1.2')
+
     app = MainWindow(master=root)
     app.master.title("My app")
-    app.master.maxsize(200,200)
     app.mainloop()
 
