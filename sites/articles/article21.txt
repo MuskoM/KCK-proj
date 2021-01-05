@@ -1,31 +1,35 @@
-Link between air pollution and COVID-19 spikes identified
-Researchers argue that temperature inversions and Saharan dust storms may be contributing to localized peaks of
-COVID-19. Share on Pinterest Image credit: Thomas Winz / Getty Images. Researchers have identified a link between
-localized peaks of COVID-19 and air pollution due to either temperature inversions or Saharan dust storms. The findings,
-which appear in the journal Earth Systems and Environment, suggest that localized air pollution may be a contributing
-factor in COVID-19 peaks, according to the researchers. Stay informed with live updates on the current COVID-19 outbreak
-and visit our coronavirus hub for more advice on prevention and treatment.  Weather, pollution, and respiratory illness
-COVID-19 is a disease that primarily affects a person’s respiratory system. Severe cases of the disease can cause an
-exaggerated immune response, resulting in an inflammatory cascade known as a cytokine storm, which can be fatal.
-Scientists have long been aware of a relationship between air pollution — specifically, fine particulate matter — and
-respiratory illnesses, such as influenza. Fine particulate matter can increase the levels of inflammation in a person’s
-body, potentially raising the risk of some lung diseases, as well as giving the blood a higher tendency to clot. High
-concentrations of fine particulate matter are associated with thermal inversions — a situation in which cool air becomes
-trapped near the Earth’s surface underneath a pocket of warmer air. Saharan dust storms can also significantly increase
-fine particulate matter, and researchers have linked these to localized increases in mortality. Given that research has
-shown air pollution to exacerbate respiratory diseases and weather events to increase air pollution, the researchers
-behind the present study wanted to see whether there was evidence for weather events increasing localized COVID-19
-peaks.  Air pollution and disease spikes To do this, the researchers focused on four cases of significant COVID-19
-peaks. These were in Tenerife, Spain; the Canton of Ticino, Switzerland; Greater London, England; and Paris and its
-surrounding regions, in France. The researchers analyzed publicly available data on the levels of fine particulate
-matter for these regions and found a correlation between increased levels and peaks in COVID-19. In Tenerife, there was
-a major dust storm on February 23, 2020. In the following days, there was a significant outbreak of COVID-19 in a hotel.
-In the Canton of Ticino, around February 24, 2020, a thermal inversion trapped cool air on the surrounding valley floor
-and significantly increased fine particulate matter. During this time, hospitalizations due to COVID-19 surged. The
-number of cases was significantly higher than in Zurich on the other side of the Alps, which also saw lower levels of
-fine particulate matter. Greater London saw significant peaks of fine particulate matter on March 26 and April 9, 2020.
-In the weeks following these, London saw a rate of COVID-19 deaths per 100,000 that was significantly higher than in all
-other parts of England. Finally, in Paris and its surrounding regions, researchers retrospectively confirmed the first
-case of COVID-19 as having taken place in December 2019. However, it was not until March 2020, after significant
-increases in air pollution, that cases began to spike. The increase in cases coincided with high concentrations of fine
-particulate matter immediately after a strong thermal inversion on March 28, 2020.
+How blood markers and wealth predict future health problems
+Researchers at the University of East Anglia (UEA) discovered that wealth plays a crucial role in seeking preventive
+healthcare. However, this was a secondary find, as their primary focus was on the concept of biomarkers predicting the
+development of health problems and the need for future treatments. Share on Pinterest FatCamera / Getty Images It is
+quite common for studies to find that, if left unaddressed, chronic stress and negativity can lead to developing severe
+health problems. An unfortunate modern reality is that much of chronic stress has direct ties with socioeconomic
+inequalities. A new study — which appears in the December 2020 issue of Economics & Human Biology — adds to this body of
+evidence. Lead study author Dr. Apostolos Davillas from the UEA’s Norwich Medical School explains, “We [found] that
+people’s biological health is linked with future demand on healthcare services, such as GP and outpatient consultations,
+as well as time spent in the hospital.” Dr. Davillas led a team that studied blood biomarkers. Their intended goal was
+determining if biological health could predict disease and the need for future medical treatments. Dr. Davillas and his
+team set out to focus on blood markers to predict future health problems. However, the byproduct of their research
+concerning wealth also came with crucial implications. Health inequities affect all of us differently. Visit our
+dedicated hub for an in-depth look at social disparities in health and what we can do to correct them.  How the study
+unfolded Before drawing their conclusions, the UEA team examined biomarkers for 5,286 people, who were the participants
+in academic research for “Understanding Society,” the UK Household Longitudinal Study. Researchers examined multiple
+facets of health data, including liver and kidney function, resting heart rate, cholesterol levels, blood pressure, and
+lung strength. The team also considered inflammation and how their bodies reacted to infections or chronic stress.
+Ultimately, the study results revealed biological clues acting as indicators of future health problems. According to Dr.
+Davillas: “What we found is that underlying biomarker differences have links with future disability, and that we could
+actually predict people’s level of disability in 5 years’ time, based on the biomarkers in their blood. “We tried to
+investigate the mechanism for why this happens and found that people with impaired biological health may develop [a]
+disability in 5 years’ time, resulting in increased healthcare and social needs.” When looking through the data, Dr.
+Davillas and his team were able to observe wealth as a factor in participant behavior and future medical needs.
+Additionally, the harsh impact of wealth disparity on the quality of access to healthcare plans and treatment also
+played a role.  Wealth’s impact on stress, health, and healthcare access In an earlier study, Dr. Davillas linked
+biomarkers for stress to a person’s socioeconomic status. Though this research initially focused on blood markers as
+predictors for future health, his team could draw from previous studies linking wealth and health. This research seems
+to validate perceptions that wealth correlates with a person’s willingness to engage general practitioners for
+preventive care. It also indicates that healthcare professionals are far more willing to enable the very wealthy to
+receive as much care as possible. The situation is problematic, as lower-income patients inevitably require frequent
+medical treatment in the future, due to greater chronic stress and fewer available preventative measures. Dr. Davillas
+comments, “In a publicly-funded healthcare system, pro-rich inequity in healthcare use may be because people on lower
+low-incomes are heavily time-constrained due to harsher employment and living arrangements, and may be more constrained
+in seeking the healthcare they need.”

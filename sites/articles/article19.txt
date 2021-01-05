@@ -1,28 +1,27 @@
-New model more effective in predicting Alzheimer's
-Scientists report a new, relatively cheap, and noninvasive model for predicting Alzheimer’s disease in people with mild
-cognitive impairment. Share on Pinterest Image credit: erdikocak / Getty Images. Scientists at Lund University in Sweden
-have developed a new model for predicting Alzheimer’s disease in people presenting with mild cognitive impairment. The
-model analyzes proteins in blood samples. It is less invasive and less expensive than other prognostic tools and
-produces equivalent or better predictions. The authors, who published their paper in the journal Nature Aging, call for
-further large-scale studies to confirm their findings.  The importance of early diagnoses According to the Centers for
-Disease Control and Prevention (CDC), Alzheimer’s disease is the most common form of dementia. According to the
-Alzheimer’s Association, approximately 5.8 million older adults in the United States are living with Alzheimer’s.
-Alzheimer’s is a progressive neurological disease. At its mildest, it can cause a person to experience minor memory
-loss, while at its most severe, it can leave a person unable to respond to the world around them. The disease typically
-affects people over the age of 65 years, and the risk increases as people get older. Mild cognitive impairment — such as
-having problems remembering things — can be an early warning sign of Alzheimer’s. However, this is not always the case.
-Mild cognitive impairment may stay stable over time and be unrelated to Alzheimer’s disease. Not knowing whether mild
-cognitive impairment will lead to Alzheimer’s can cause anxiety for those it affects and their family. Prof. Oskar
-Hansson — a professor in neurology at Lund University, a consultant at the clinical memory research unit at Skåne
-University Hospital, Sweden, and a corresponding author of the study — notes that “[m]any people with Alzheimer’s
-disease currently seek care when they have only developed mild memory impairment, meaning many years before the dementia
-stage of the disease.” “It is often difficult for doctors to give the correct diagnosis in people with milder memory
-impairment, as many different conditions other than Alzheimer’s can be the cause,” he adds. However, current tests to
-determine whether mild cognitive impairment is likely to lead to Alzheimer’s come with issues. Cerebrospinal fluid,
-which doctors take from a person’s spine through a lumbar puncture, can reflect the brain’s metabolism and pathology.
-Therefore, it can enable clinicians to identify Alzheimer’s disease prior to the onset of severe symptoms. However, as
-the scientists behind the present study note, lumbar punctures are invasive, and this may be off-putting for some
-people. Alternatively, doctors can use positron emission tomography imaging to identify early forms of Alzheimer’s.
-However, this procedure is expensive, and the technology to perform the imaging may not be available in all healthcare
-settings. As a consequence, the scientists behind the present study wanted to determine whether it was possible to
-develop a less invasive and expensive way of predicting Alzheimer’s disease in people with mild cognitive impairment.
+Gut microbiota: How does it interact with the brain?
+Through studies in mice, researchers find evidence that having a healthful balance of gut microorganisms is important
+for good health. Share on Pinterest Smith Collection/Gado/Getty Images Researchers from the Institut Pasteur, French
+National Center for Scientific Research (CNRS), and Inserm have found evidence that gut microbiota also plays a role in
+mood regulation and brain function. Gut microbiota is the community of bacteria, fungi, and viruses that live in the
+digestive tract. These findings in mice suggest that changes to gut bacterial communities may lead or contribute to
+depression. If humans have a similar mechanism, doctors might be able to use bacteria strains to treat mood disorders,
+such as depression. A group of 16 researchers from several prominent French research institutions conducted the study,
+which appears in Nature Communications.  Gut microbiota and mood Studies have found that some people with depression
+experience dysbiosis, which is an imbalance or change in their intestinal microbiota. Research conducted on rodents also
+shows that gut dysbiosis has associations with neurological changes linked with depression, such as: reduced adult
+neurogenesis, or the growth of new brain cells  chronic low-grade inflammation  abnormal hypothalamic–pituitary–adrenal
+(HPA) axis (the body’s central stress response system) function Animal studies also show that gut microbiota helps
+regulate anxiety. It may also influence the development of neurological conditions caused by circuit dysfunctions, such
+as Parkinson’s disease, Alzheimer’s disease, depression, and obsessive-compulsive disorder. Researchers think this is
+because gut bacteria release metabolites, tiny bits of food broken down by digestion that influence brain function.
+Metabolites may impact mood regulation by acting on the endocannabinoid system. The endocannabinoid system is a complex
+cell-signaling system consisting of lipid (fat)-based neurotransmitters and their receptors. It is found throughout the
+body and plays a role in important aspects of health, such as immune and nervous system function and cellular
+communication in the nervous system. It also regulates emotions, moods, and stress responses by activation of the
+system’s main receptor, CB1. Previous research supports the idea that restoring gut microbial health may help treat
+depression. In animal studies, prebiotic treatment influenced emotional behavior. In human studies, prebiotic
+supplementation also improved mood in people with depression. But despite educated theories, researchers still do not
+know precisely how gut bacteria impact brain function. Researchers in the recent study set out to find the mechanisms
+linking gut microbiota and mood disorders. A team of researchers from some of these same French institutions published a
+report earlier this year, which found that stress-induced changes in gut microbiota reduced the efficacy of the
+antidepressant fluoxetine in mice.

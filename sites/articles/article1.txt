@@ -1,34 +1,71 @@
-Do SARS-CoV-2 mutations affect its transmissibility?
-New research has found that no currently identified mutation of SARS-CoV-2 appears to make the virus better at
-transmitting. Share on Pinterest Image credit: Prapass Pulsub / Getty Images. After studying a significant number of
-SARS-CoV-2 mutations, the scientists behind a new study have not identified any that are likely to improve the virus’s
-transmissibility. The research, published in the journal Nature Communications, may be valuable in helping scientists
-keep track of the virus’s possible mutations as it encounters people who have been vaccinated against it. Stay informed
-with live updates on the current COVID-19 outbreak and visit our coronavirus hub for more advice on prevention and
-treatment.  Viral mutation SARS-CoV-2, the virus responsible for COVID-19, has been present in humans for approximately
-1 year. During that time, though, it has not stayed the same. Viruses spread by replicating themselves within a host
-organism. If all goes to plan, this replication results in genetically identical copies of the virus taking over cells
-within the host. In the case of SARS-CoV-2, these are typically the cells of a person’s respiratory tract. However, a
-virus can also mutate during its replication process. Viral mutation happens for one of three reasons. Either there is
-an error during the replication process, or the mutation occurs because another virus is also present in the host. Or,
-the mutation may be a consequence of the effects of the person’s immune system on the virus. Mutations are key for a
-virus’s evolution, as they are for other organisms. If a mutation improves the virus’s ability to replicate, the
-mutation is likely to be passed on and may spread exponentially. If the mutation is detrimental to the virus’s ability
-to replicate, it is less likely to be passed on. Mutations that are neutral may be passed on, depending on other
-factors. In the case of SARS-CoV-2, a key question is whether and how often the virus’s mutations are likely to improve
-its ability to replicate, for example, by making it more effective at resisting a person’s immune system. The virus is
-already highly infectious, and the disease it can cause has resulted in more than 1.4 million deaths globally. If SARS-
-CoV-2 mutated to become more infectious, the death rate would likely increase even further.  Over 46,000 samples To
-determine whether mutations of SARS-CoV-2 are increasing its transmission, the scientists behind the present study
-analyzed samples of its genome from 46,723 people across 99 countries. According to the study paper’s co-lead author,
-Dr. Lucy van Dorp, of the UCL Genetics Institute, in the United Kingdom, “The number of SARS-CoV-2 genomes being
-generated for scientific research is staggering.” “We realized early on in the pandemic that we needed new approaches to
-analyze enormous amounts of data — in close to real time — to flag new mutations in the virus that could affect its
-transmission or symptom severity,” she adds. The dataset that the scientists analyzed included samples taken until the
-end of July 2020. Of the initial 46,723 samples, the scientists identified 12,706 cases of viral mutation. However, the
-researchers were particularly interested in 398 mutations that likely occurred independently a number of times. This
-would indicate that these mutations are more likely to increase the virus’s transmission, rather than having a neutral
-effect and being passed on incidentally. The scientists finally identified 185 mutations that occurred independently at
-least three times. To determine whether the mutations were improving the chances of transmission, the scientists created
-models of the virus’s evolutionary tree, tracing how common each mutation was along a particular evolutionary branch. If
-the mutation occurred frequently in descendants, it likely increased the chances of the virus’s transmission.
+2020 COVID-19 vaccine research: This year's landmarks
+Since the World Health Organization (WHO) declared the COVID-19 pandemic in March 2020, researchers all over the world
+have joined the race for an effective vaccine. Here is how the search for a vaccine progressed throughout the year.
+Share on Pinterest skaman306/Getty Images March 11, 2020, is a day that many of us will remember for years to come. That
+is when the WHO declared that the epidemic of infections with a previously undescribed human coronavirus, SARS-CoV-2,
+had spread globally, qualifying as a pandemic. Since then, the world’s countries have cycled through restrictive
+measures — ranging from physical distancing to full lockdowns — to try to keep the spread of the new coronavirus in
+check. Throughout this period of anxiety and uncertainty, scientists and members of the public alike have shared one
+mantra: The pandemic will subside once there is a commonly available vaccine against COVID-19, which is the respiratory
+disease caused by SARS-CoV-2. Stay informed with live updates on the current COVID-19 outbreak and visit our coronavirus
+hub for more advice on prevention and treatment. At the time of this feature’s publication, five vaccines have received
+authorization from different countries around the world as safe and effective against COVID-19. How did we get here in 9
+months? What routes did the science world take in the search for viable vaccines? In this Special Feature, we look at
+the vaccine research highlights from March to December 2020.  Spring: The start of COVID-19 vaccine research Even before
+the WHO declared the emergence of a pandemic, scientists had started looking for vaccine and therapeutic targets. In
+early March, researchers from Germany and the United States had already submitted papers to the journal Cell discussing
+potential mechanisms that might prevent infections with SARS-CoV-2. Their laboratory and animal research then suggested
+that SARS-CoV antibodies might help block the virus’s entry into healthy cells, thus potentially reducing infections. In
+mid-March, researchers from the National Institutes of Health (NIH) and the biotechnology company Moderna also started
+enrolling the first volunteers to trial what has now become known as “the Moderna vaccine.” The Moderna vaccine uses a
+relatively new technology that introduces genetic information about the virus into our cells to “train” the immune
+system to recognize and react to SARS-CoV-2. This type of vaccine is known as an mRNA vaccine. At that point, the NIH
+and Moderna were testing primarily for safety, to make sure that their vaccine candidate did not have major unwanted
+effects on health. In April, researchers from the University of Oxford in the United Kingdom and the biopharmaceutical
+company AstraZeneca started trials for their own vaccine candidate, now known as “the Oxford vaccine” or “AstraZeneca
+vaccine.” Their research group used a weakened chimpanzee adenovirus, which is a common cold virus, to stimulate the
+immune system and to deliver the genetic code for our cells to make the SARS-CoV-2 spike protein. This protein allows
+the new coronavirus to enter and infect our cells. By delivering this protein in viral particles that cannot cause
+disease, the researcher’s aim was to safely introduce it into the human body to “teach” the immune system to react to
+SARS-CoV-2, should it have exposure to this virus. At that point, the scientists from the University of Oxford and
+AstraZeneca were hopeful that their vaccine would prove safe and effective and receive approval for public immunization
+programs by fall 2020. A Chinese vaccine candidate also caught the attention of public health experts in April. That
+month, researchers from the Chinese biotechnology company Sinovac Biotech tested a vaccine containing inactivated SARS-
+CoV-2 in rhesus macaques. “What I like most [about this type of vaccine] is that many vaccine producers, also in lower-
+middle income countries, could make such a vaccine,” said Prof. Florian Krammer, a specialist in immunology and virology
+from the Icahn School of Medicine at Mount Sinai in New York City, NY. Prof. Krammer was not involved in this research.
+In May, the Oxford vaccine was already entering phase 2 trials in humans. These trials aimed to find out if the vaccine
+would affect immune systems differently depending on the participants’ ages. Also, researchers from the pharmaceutical
+corporation Pfizer and the biotechnology company BioNTech started phase 1 trials, or safety trials, in humans for their
+own mRNA vaccine candidate. Pfizer representatives expressed satisfaction with the short time it took them to take the
+vaccine candidate from proof of concept to human trials. Dr. Albert Bourla, chairman and CEO of the pharmaceutical
+corporation, declared that: “The short, less-than-4-month timeframe in which we’ve been able to move from preclinical
+studies to human testing is extraordinary and further demonstrates our commitment to dedicating our best-in-class
+resources, from the lab to manufacturing and beyond, in the battle against COVID-19.” Also in May, scientists from the
+China National Institute for Food and Drug Control in Beijing, the Beijing Institute of Biotechnology, and the vaccine
+company CanSino Biologics published the results of the phase 1 trial of yet another vaccine candidate. Their candidate
+used an adenovirus that is no longer able to replicate, which carries the SARS-CoV-2 spike protein on its surface.
+According to the researchers, the vaccine candidate was well tolerated at that point. When side effects did occur, they
+tended to be mild. The investigators also reported signs that their vaccine candidate might be effective in fighting
+SARS-CoV-2. According to lead researcher Prof. Wei Chen, from the Beijing Institute of Biotechnology in Beijing, “The
+trial demonstrates that a single dose of the new vaccine [candidate] produces virus-specific antibodies and T cells in
+14 days, making it a potential candidate for further investigation.”  Summer: The race against time continues In June,
+Sinovac had made public preliminary reports that their vaccine candidate, known as CoronaVac, was safe, according to
+phase 1 and 2 trials in humans. Since then, Sinovac experts have published the finalized report in The Lancet:
+Infectious Diseases. By mid-July, the Oxford vaccine was already showing promise. All of the participants who received
+the vaccine candidate in phase 1 had developed SARS-CoV-2-neutralizing antibodies, suggesting that it would be effective
+in preventing the development of COVID-19. Prof. Andrew Pollard, a specialist in vaccinology and the chief investigator
+in the Oxford vaccine trial, also noted that the vaccine might work best if healthcare professionals delivered it in two
+doses: “We saw the strongest immune response in participants who received two doses of the vaccine, indicating that this
+might be a good strategy for vaccination.” That same month, Sinovac launched a phase 3 trial of their vaccine candidate
+in collaboration with Instituto Butantan in Brazil. CanSino also published promising results after their phase 2 trial,
+which found that at 28 days after inoculation, a large majority of the trial participants demonstrated T cell responses.
+This consolidated suggestions that the vaccine candidate might be effective against SARS-CoV-2. In August, Pfizer and
+BioNTech also published early data from phase 1 and 2 trials of their mRNA vaccine candidate. The results confirmed the
+vaccine candidate’s safety, and the researchers noted that any side effects were mild and short term. An increase in
+antibodies following inoculation also suggested that the vaccine candidate might be effective in fighting SARS-CoV-2.
+The researchers went as far as to call the immune response they observed in participants “robust.” These promising
+results propelled Pfizer and BioNTech toward the phase 3 trial, as the team suggested in the study paper. “The clinical
+findings for the […] vaccine candidate are encouraging and strongly support accelerated clinical development, including
+efficacy testing, and at-risk manufacturing to maximize the opportunity for the rapid production of a SARS-CoV-2 vaccine
+to prevent COVID-19,” the authors wrote.

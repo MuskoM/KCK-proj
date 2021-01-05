@@ -1,32 +1,35 @@
-Adapted yellow fever vaccine may protect against COVID-19
-The genetically altered yellow fever vaccine was highly effective in animals. If it passes clinical trials, the new
-vaccine would have some advantages over other SARS-CoV-2 vaccines. Share on Pinterest undefined/Getty Images The
-research suggests that the newly developed vaccine would not only protect against COVID-19 but also against yellow
-fever. In addition, it appears to provide protection after a single shot, whereas SARS-CoV-2 vaccines such as the one
-that Pfizer and BioNTech have developed require two doses 1 month apart. “This has important logistical implications, in
-particular for countries with a less advanced medical system,” explains Prof. Johan Neyts, from the Rega Institute at KU
-Leuven in Belgium. Prof. Neyts is one of the virologists who led the research. Stay informed with live updates on the
-current COVID-19 outbreak and visit our coronavirus hub for more advice on prevention and treatment. Prof. Neyts also
-believes that the vaccine may offer long lasting immunity against COVID-19. “It could therefore be an ideal candidate
-for repeat vaccinations when immunity decreases in people who have received one of the first-generation vaccines,” he
-says. The study, which appears in the journal Nature and as a preprint, suggests that a single shot of the vaccine
-protected hamsters against SARS-CoV-2, which is the virus that causes COVID-19. It also protected mice and monkeys. The
-team is now preparing to conduct clinical trials of the new vaccine, which is provisionally called RegaVax, in 2021.
-Established vaccine The standard yellow fever vaccine, known as YF17D, has been in use for 80 years and has a good
-safety record. It delivers a live, “attenuated” (weakened) strain of the yellow fever virus. The team at KU Leuven had
-previously used the same virus as the basis of candidate vaccines against the Zika, Ebola, and rabies viruses. The
-scientists use the yellow fever virus as a “vector” to deliver fragments of genetic material from other viruses. The
-fragments provoke a targeted immune response and long-term immunity to future infections. Vaccines that employ the
-yellow fever virus as a vector are already licensed for use against Japanese encephalitis and dengue viruses. To create
-their SARS-CoV-2 vaccine, the virologists at KU Leuven inserted a genetic sequence from SARS-CoV-2 into the yellow fever
-virus. The sequence is a blueprint for SARS-CoV-2 spike proteins, which give the virus its characteristic crown-like
-appearance. When host cells become infected with the weakened yellow fever virus, they make copies of the spike, which,
-in turn, provoke an immune response.  Hamster model of COVID-19 To test the vaccine, the researchers gave a single dose
-to hamsters, which are an established model of SARS-CoV-2 infection. When they dripped a solution of SARS-CoV-2 into
-some of the animals’ noses 10 days later, most were immune to infection. Around 3 weeks after vaccination, all the
-animals the researchers tested were immune. None of the vaccinated hamsters developed any signs of lung infection,
-whereas hamsters that received the inactive control vaccine showed clear signs of lung disease. The researchers also
-tested the vaccine in monkeys. They detected low blood levels of “neutralizing” antibodies, which disable the virus, 7
-days after vaccination. After 14 days, however, there were high concentrations in the animals’ blood. “This is very
-fast,” says Prof. Neyts. “Moreover, in the vaccinated animals, the virus was completely or nearly completely gone from
-their throats.”
+Might a safer version of a psychedelic help treat depression?
+Research in animals suggests that the new compound is neither toxic nor hallucinogenic and that it may help treat a
+range of psychiatric disorders, including depression and addiction, and possibly anxiety and post-traumatic stress
+disorder (PTSD). Share on Pinterest The psychedelic drug ibogaine is derived from the roots of iboga, pictured above.
+STEEVE JORDAN/Getty Images Ibogaine is a psychedelic drug extracted from the roots of iboga, a shrub native to the
+rainforests of West Africa. While there have been no placebo-controlled clinical trials of ibogaine, anecdotal reports
+and small open-label studies suggest that it can reduce drug cravings and prevent relapse. However, ibogaine is a
+hallucinogen classed as a Schedule I controlled substance in the United States. It is also toxic and can cause cardiac
+arrhythmia. Researchers have linked the use of ibogaine to several deaths. David Olson, an assistant professor of
+biochemistry and molecular medicine at the University of California, Davis, and colleagues set out to create a safer
+version of ibogaine that retains its anti-addictive properties but is neither toxic nor hallucinogenic. They report
+their findings in the journal Nature.  Promoting plasticity Olson’s lab, one of only a few in the United States licensed
+to work with Schedule I substances, investigates psychoplastogens — molecules such as the psychedelics ibogaine and DMT
+that promote neural plasticity, or the capacity of the brain to rewire and regain some of its former flexibility.
+“Psychedelics are some of the most powerful drugs we know of that affect the brain,” says Olson, the senior author of
+the study paper. “It’s unbelievable how little we know about them.” First, Olson and colleagues identified the parts of
+the ibogaine molecule that may be responsible for its therapeutic effects. They then engineered these features into a
+new molecule: tabernanthalog (TBG).    They derived the name from the Latin name for this group of plants, Tabernanthe
+iboga, meaning “tavern flower.” Unlike ibogaine, TBG is water-soluble, which may make it less toxic and less likely to
+adversely affect the heart. It can also be synthesized in a lab in a single step. When the researchers tested TBG on
+zebrafish, they found it to be less toxic than ibogaine. In cultures of rat nerve cells, TBG increased the formation of
+new nerve branches, or dendrites. It also promoted the growth of new dendritic spines, the tiny protuberances that
+receive signals from other nerves. Other drugs that increase neural plasticity, such as ketamine and DMT, have similar
+effects on nerve cells.  Addiction and depression Next, the researchers tested their new compound in several animal
+models of addiction and depression. In a standard test designed to model binge drinking in humans, mice trained to crave
+alcohol consumed less after a single dose of TBG. TBG also reduced signs of opiate withdrawal in rats, which can be
+conditioned to press a lever to get a dose of heroin whenever they see a light and hear a tone. When the animals no
+longer get the drug on cue, they develop signs of withdrawal and repeatedly press the lever. The researchers found that
+administering TBG reduced this behavior and led to a lasting reduction in relapse behavior when the cues were repeated.
+Finally, the team used a mouse model of depression called the forced swim test to investigate the potential
+antidepressant properties of TBG. They found that TBG was as effective as ketamine, an antidepressant that also promotes
+neuroplasticity, though its effects did not last as long. Olson believes that TBG may change key brain circuits that
+underlie not only depression, but also anxiety, PTSD, and addiction. “We’ve been focused on treating one psychiatric
+disease at a time, but we know that these illnesses overlap,” Olson said. “It might be possible to treat multiple
+diseases with the same drug.”

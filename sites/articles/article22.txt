@@ -1,31 +1,64 @@
-Gut bacteria can help rebuild the immune system
-For the first time, researchers have demonstrated how the gut microbiome — the community of microorganisms living in the
-gut — can influence the immune system in humans. Their work could lead to new treatments for immune-related conditions.
-Share on Pinterest Image credit: ChrisChrisW / Getty Images. The researchers at Memorial Sloan Kettering Cancer Center
-in New York, NY, tracked the recovery of patients’ gut microbiota and immune system after bone marrow transplants (BMTs)
-following treatment for blood cancers. Healthcare professionals use chemotherapy and radiation therapy to destroy
-cancerous blood cells in conditions such as leukemia and lymphoma. After completion of the treatment, which also kills
-healthy immune cells, specialists inject patients with stem cells from a donor’s blood or bone marrow. These donated
-cells slowly restore patients’ ability to make their own blood cells. However, patients have to take antibiotics in the
-first few weeks after the transplant because they are still vulnerable to infections. These upset the balance of their
-gut microbiota, killing “friendly bacteria” and allowing dangerous strains to thrive.  Unique opportunity Once patients’
-immune systems are strong enough, they can stop taking the antibiotics, which allows their gut microbiota to recover.
-The researchers at Sloan Kettering used this unique opportunity to study how the microbiota affects the immune system.
-“The scientific community had already accepted the idea that the gut microbiota was important for the health of the
-human immune system, but the data they used to make that assumption came from animal studies,” explains systems
-biologist Joao Xavier, who is co-senior author of the paper with his former postdoc Jonas Schluter. “The parallel
-recoveries of the immune system and the microbiota, both of which are damaged and then restored, gives us a unique
-opportunity to analyze the associations between these two systems,” says Dr. Schluter, who is now an assistant professor
-at NYU Langone Health in New York, NY. Using blood and fecal samples from more than 2,000 patients treated at the cancer
-center between 2003–2019, the researchers were able to track daily changes in their gut microbiota and the number of
-immune cells in their blood.  Thousands of data points “Our study shows that we can learn a lot from stool — biological
-samples that literally would be flushed down the toilet,” says Dr. Xavier. “The result of collecting them is that we
-have a unique dataset with thousands of data points that we can use to ask questions about the dynamics of this
-relationship.” The researchers used a machine-learning algorithm to identify patterns in the data, which included
-information about patients’ medications and the side effects they experienced. One of the findings was that the presence
-of three types of gut bacteria — called Faecalibacterium, Ruminococcus 2, and Akkermansia — was associated with
-increased blood concentrations of immune cells called neutrophils. By contrast, two types called Rothia and Clostridium
-sensu stricto 1, were associated with reduced numbers of these immune cells. Computer simulations by the researchers
-predicted that enriching microbiota with the three “friendly” genera would speed up the recovery of patients’ immune
-systems. “This research could eventually suggest ways to make BMTs safer by more closely regulating the microbiota,”
-says co-author Marcel van den Brink. The study appears in Nature.
+What is bloodletting, and why was it a popular therapy?
+Bloodletting — the practice of withdrawing blood from a person’s veins for therapeutic reasons — was common for
+thousands of years. In this Curiosities of Medical History feature, we look at the history of bloodletting and how it
+eventually fell out of favor with the medical community. Share on Pinterest Image credit: National Library of Medicine
+Also known as phlebotomy — from the Greek words phlebos, meaning “vein,” and temnein, meaning “to cut” — bloodletting is
+a therapeutic practice that started in antiquity. Today, however, the term phlebotomy refers to the drawing of blood for
+transfusions or blood tests. Some sources suggest that the original practice of bloodletting is more than 3,000 years
+old and that the Ancient Egyptians, Greeks, and Romans — as well as many other ancient peoples — all used it for medical
+treatment. But what is the origin of the notion of bleeding someone to help them get better?  The theory of the 4 humors
+Hippocrates — an Ancient Greek physician who lived in the fifth century before the common era and was one of the most
+important figures in the history of medicine — practiced medicine according to the theory of the four humors, or
+“humoral theory.” This theory posited that there were four key humors, or liquids, in the human body and that imbalances
+in these humors were responsible for many physical and mental illnesses. According to the most influential version of
+this theory, these humors were: black bile, yellow bile, phlegm, and blood. In the second century before the common era,
+Galen — a famous Roman physician who also subscribed to the humoral theory — promoted arteriotomy, a bloodletting
+method, as a means of reestablishing the balance of the four humors and treating a variety of symptoms. According to
+Galen, a bloodletting incision into the veins behind the ears could treat vertigo and headaches, and letting blood flow
+out through an incision in the temporal arteries — the veins found on the temples — could treat eye conditions. The
+principle behind bloodletting is to remove some blood in a controlled way so that the patient does not end up bleeding
+profusely. Article highlights: However, as some of Galen’s contemporaries observed, the famed physician could sometimes
+get carried away when administering this treatment. Prof. Susan Mattern — a historian based at the University of Georgia
+in Athens — emphasizes one such account in a paper in The Lancet: “[Galen] was an adamant defender of bloodletting
+against those who doubted its efficacy. Galen’s methods could be very messy: he let so much blood from one patient that
+the other doctors in attendance joked about it, comparing the sick man to a butchered animal: ‘Man, you have slaughtered
+the fever.'” Bloodletting continued to play a role in medicine throughout Medieval Europe, and it persisted as a common
+therapeutic method up until the 19th century, when it gradually started to fall out of fashion. The instruments that
+physicians commonly used for bloodletting ranged from grotesque-looking scalpels to tools and methods that some
+alternative medicine practitioners still use today. They included: fleams, which looked somewhat like Swiss knives,
+producing several kinds of blades  spring lancets with a single thin blade  terrifyingly named “sacrificators,” which
+had multiple blades  cups that the physician could place over the incision to collect the blood  leeches, which some
+people still use for therapeutic reasons today  Bloodletting in the Middle Ages Bloodletting was particularly popular in
+the Middle Ages, when doctors would use it not just to treat illness but also to prevent it. In the book, Medieval
+Bodies: Life, Death and Art in the Middle Ages, Dr. Jack Hartnell — who is a lecturer in art history at the University
+of East Anglia in Norwich, United Kingdom — describes some of the uses of bloodletting, as well as some of the ways in
+which physicians carried out this procedure. Dr. Hartnell writes that according to medieval medical practice: “Purging
+the wet and warm humor that was the blood both cooled and ventilated the patient’s core and was used as a prophylactic
+insurance against illness to come: It could prepare the body for predicted future biological shifts or seasonal changes
+that might push it into misalignment — anything from forthcoming menstruation to the onset of a particularly hot
+summer.” As for applying bloodletting as a treatment, Dr. Hartnell notes that medieval physicians might opt for one of
+two contrasting approaches. They would choose to make an incision either close to the part of the body requiring
+treatment or in an opposite spot on the body that allegedly corresponded to the affected organ. Some medieval and
+Renaissance-period medical treatises featured detailed illustrations of the points on the body where it was appropriate
+to perform bloodletting incisions, depending on which body part an illness had affected. Similar medical illustrations
+and practices extended as far as South Asia and the Middle East. In medieval and Renaissance Europe, bloodletting had
+become so common a therapy that barber-surgeons practiced it. These individuals were men who could trim a person’s hair
+or beard, as well as pulling out badly damaged teeth and withdrawing blood.  ‘People were… bled at their own request’ In
+18th-century Europe, surgeons continued to use bloodletting as a treatment for fever, hypertension (high blood
+pressure), inflammation of the lungs, and pulmonary edema (excess fluid in the lungs). Some physicians had even wider
+uses for this allegedly therapeutic method. For example, John Hunter — one of the forefathers of modern surgery —
+described various other uses for bloodletting, including in the treatment of smallpox or gonorrhea. In this latter case,
+he advised bloodletting by leeches, which a doctor would have to affix to the patient’s testicles. Bloodletting was
+still fairly common throughout the 19th century, though by the start of the 20th century, it was gradually becoming
+unpopular with both the medical community and the public at large. Speaking of this practice’s popularity in the
+mid-19th century, a consultant physician at that time, Dr. E. Copeman, wrote: “In my early days, bleeding was very
+frequently resorted to in this hospital; and people were in the habit of coming to be bled at their own request, just as
+they now apply to have their teeth drawn, and it was thought to be good practice for the students.” Bloodletting started
+to lose ground in part thanks to the work of French physician Pierre-Charles-Alexandre Louis, who began questionning
+this therapeutic method in the 1820s. Louis’s approach was to look at the number of patients who had received this
+therapy and — taking into consideration the effect of other factors, such as age — to determine whether bloodletting had
+actually done more good than harm. His conclusion, again and again, was that there was not enough evidence in support of
+the idea that withdrawing blood could improve health. While he did not altogether reject bloodletting as a therapy,
+Louis wrote that according to his observations, “the study of the general and local symptoms, the mortality and
+variations in the mean duration of pneumonitis, according to the period at which bloodletting was instituted; all
+establish narrow limits to the utility of this mode of treatment.”
