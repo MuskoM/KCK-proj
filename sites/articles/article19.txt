@@ -1,27 +1,29 @@
-Gut microbiota: How does it interact with the brain?
-Through studies in mice, researchers find evidence that having a healthful balance of gut microorganisms is important
-for good health. Share on Pinterest Smith Collection/Gado/Getty Images Researchers from the Institut Pasteur, French
-National Center for Scientific Research (CNRS), and Inserm have found evidence that gut microbiota also plays a role in
-mood regulation and brain function. Gut microbiota is the community of bacteria, fungi, and viruses that live in the
-digestive tract. These findings in mice suggest that changes to gut bacterial communities may lead or contribute to
-depression. If humans have a similar mechanism, doctors might be able to use bacteria strains to treat mood disorders,
-such as depression. A group of 16 researchers from several prominent French research institutions conducted the study,
-which appears in Nature Communications.  Gut microbiota and mood Studies have found that some people with depression
-experience dysbiosis, which is an imbalance or change in their intestinal microbiota. Research conducted on rodents also
-shows that gut dysbiosis has associations with neurological changes linked with depression, such as: reduced adult
-neurogenesis, or the growth of new brain cells  chronic low-grade inflammation  abnormal hypothalamic–pituitary–adrenal
-(HPA) axis (the body’s central stress response system) function Animal studies also show that gut microbiota helps
-regulate anxiety. It may also influence the development of neurological conditions caused by circuit dysfunctions, such
-as Parkinson’s disease, Alzheimer’s disease, depression, and obsessive-compulsive disorder. Researchers think this is
-because gut bacteria release metabolites, tiny bits of food broken down by digestion that influence brain function.
-Metabolites may impact mood regulation by acting on the endocannabinoid system. The endocannabinoid system is a complex
-cell-signaling system consisting of lipid (fat)-based neurotransmitters and their receptors. It is found throughout the
-body and plays a role in important aspects of health, such as immune and nervous system function and cellular
-communication in the nervous system. It also regulates emotions, moods, and stress responses by activation of the
-system’s main receptor, CB1. Previous research supports the idea that restoring gut microbial health may help treat
-depression. In animal studies, prebiotic treatment influenced emotional behavior. In human studies, prebiotic
-supplementation also improved mood in people with depression. But despite educated theories, researchers still do not
-know precisely how gut bacteria impact brain function. Researchers in the recent study set out to find the mechanisms
-linking gut microbiota and mood disorders. A team of researchers from some of these same French institutions published a
-report earlier this year, which found that stress-induced changes in gut microbiota reduced the efficacy of the
-antidepressant fluoxetine in mice.
+Could a supplement be as effective as exercise at protecting health?
+New research suggests that a common dietary supplement, glucosamine, may help reduce overall death risk to a similar
+degree as regular exercise. Share on Pinterest Witthaya Prasongsin/Getty Images Two researchers from West Virginia
+University (WVU), in Morgantown, recently found that individuals who took glucosamine/chondroitin — one of the most
+common kinds of glucosamine supplements — on a daily basis for at least 1 year saw a 39% reduction in mortality from all
+causes of death and a 65% reduction in the likelihood of death from cardiovascular disease. The study appears in the
+Journal of the American Board of Family Medicine. However, Dr. Dana King, the lead author of the study and chair of
+Family Medicine at WVU, does not advise people to replace exercise with the supplement. “That’s not what we suggest,”
+King explains. “Keep exercising. But the thought that taking a pill would also be beneficial is intriguing.”  A popular
+supplement Glucosamine/chondroitin, a combination of two natural compounds found in cartilage, is widely used to help
+with osteoarthritis and joint pain. During 2020–2024, the global glucosamine market is expected to grow by $229.19
+million, according to Technavio, a global technology research and advisory company. While the supplement is popular,
+however, several clinical trials have failed to show that it provides a significant improvement in pain. Still, the
+National Institutes of Health (NIH) report that oral glucosamine supplements are “likely safe” when taken correctly by
+adults.  ‘The impact was pretty significant’ In their study, Dr. King and Jun Xiang, a health data analyst at WVU,
+assessed data from 16,686 adults who had completed the National Health and Nutrition Examination Survey (NHANES) between
+1999 and 2010. All of the participants were at least 40 years old. NHANES was designed to be an ongoing assessment of
+the health and nutrition status of people throughout the United States. Screeners interview participants at their homes,
+and later, NHANES staff members perform examinations in mobile centers to collect health and nutrition data. The WVU
+study was particularly interested in participants who had taken glucosamine/chondroitin for at least 365 days before
+their interviews. Among the participants, 658, or nearly 4%, had taken glucosamine/chondroitin for a year or longer.
+When Dr. King and Xiang merged the NHANES data with 2015 mortality figures, they found that there had been 3,366 deaths
+among the participants and that 674 deaths had resulted from cardiovascular disease, the leading cause of death in the
+U.S. The authors caution that the 39% reduction in all-cause mortality and 65% reduction in death from cardiovascular
+disease that they observed among the participants who took glucosamine/chondroitin may have a simple explanation: People
+who use supplements may generally take more care with their health and be healthier overall. However, the researchers
+stress that they did control for variables such as age, race, sex, education, and the frequency of exercise, making the
+simple explanation less likely. “Once we took everything into account, the impact was pretty significant.” – Dr. Dana
+King

@@ -1,35 +1,37 @@
-A new study suggests eating avocados daily for a 'happy' gut
-A new study by researchers at the University of Illinois Urbana-Champaign suggests that people looking to balance their
-gastrointestinal health may be able to have their avocado toast and eat it, too. Share on Pinterest Oleksandr
-Hrytsiv/Getty Images The Hass Avocado Board funded the research, but the study authors believe that there is enough
-evidence to justify making the mildly flavored fruit a regular diet stable. The findings, which appear in the August
-2020 issue of the Journal of Nutrition, imply that eating avocados daily can drastically improve a person’s overall gut
-health. According to lead study author Sharon Thompson, the group wanted to deviate from the more obvious arguments in
-favor of the popular fruit. Multiple studies have attempted to link regular avocado consumption with weight loss or
-management. Instead, the University of Illinois researchers focused on how avocados affect the digestive system. Says
-Thompson, “We know eating avocados helps you feel full and reduces blood cholesterol concentration, but we did not know
-how it influences the gut microbes and the metabolites the microbes produce.” In their paper, the study authors note
-that avocado is also high in fiber and that research has shown high-fiber foods to be good for digestive health.  How
-the study came together The research involved 163 participants between the ages of 25 and 45 years. The University of
-Illinois team hoped to gauge the effect of daily avocado consumption on individuals with overweight and obesity who were
-otherwise in good health. The researchers divided the study participants into two groups. Over a 12-week period, one
-group ate a meal that included avocado. Each participant could have the replacement meal at breakfast, lunch, or dinner;
-the important factor was that they ate avocado as part of a single meal each day. The control group ate similar meals
-but without an avocado. Members of both groups provided blood, urine, and fecal samples throughout the 3-month study
-period. All of the participants reported how much of the provided meal they ate, and, each month, they turned in a
-complete list of everything they consumed.  A positive outcome, but is there a catch? Ultimately, the study showed that
-eating avocado with at least one meal per day leads to a greater presence of healthful microbes in the stomach and
-intestines. Additionally, the avocado group excreted slightly more fat in their stools than the control group. “Greater
-fat excretion means the research participants were absorbing less energy from the foods that they were eating,” explains
-senior author Hannah Holscher. Holscher is an assistant professor of nutrition in the Department of Food Science and
-Human Nutrition at the University of Illinois. “This was likely because of reductions in bile acids, which are molecules
-our digestion system secretes that allow us to absorb fat. We found that the amount of bile acids in stool was lower,
-and the amount of fat in the stool was higher in the avocado group.” Holscher, Thompson, and the other researchers had a
-very straightforward goal heading into the study. “Our goal was to test the hypothesis that the fats and the fiber in
-avocados positively affect the gut microbiota. We also wanted to explore the relationships between gut microbes and
-health outcomes.” Even so, the study received funding from the Hass Avocado Board, which has paid for a series of
-studies in recent years. Medical News Today previously covered a 2019 study that the board paid for, which suggested
-that avocado consumption could positively influence weight loss. Featuring in Nutrients, this research found that
-avocados reduced appetite, allowing people to eat less and lose weight. However, the sample size for that study was just
-31 people. The University of Illinois study drew research from more than five times as many participants. Additionally,
-other research has shown that avocados do have various health benefits.
+Remdesivir and baricitinib shortened recovery time from COVID-19
+Results from the ACTT-2 trial reveal that baricitinib combined with remdesivir reduced the recovery time of hospitalized
+COVID-19 patients from 8 to 7 days. The reduced recovery time was even more significant in patients requiring oxygen or
+ventilation. Share on Pinterest ULRICH PERREY/Getty Images As the world rejoiced over the promising results from several
+COVID-19 vaccine candidates, the United States set a new record of 300,000 coronavirus deaths. This was a stark reminder
+that some people cannot wait for a vaccine next spring. The ACTT-2 clinical trial recently investigated the use of both
+remdesivir and baricitinib, which may help with the recovery of hospitalized COVID-19 patients. The findings now appear
+in The New England Journal of Medicine. Stay informed with live updates on the current COVID-19 outbreak and visit our
+coronavirus hub for more advice on prevention and treatment.  Clinical trial design From May 8, 2020, to July 1, 2020,
+the clinical trial enrolled 1,033 people worldwide. Although 48% of the participants were white, 51.4% were Hispanic or
+Latino, 15% were Black, 9.8% were Asian, and 1% were American Indian or Alaska Native. The diversity in trial
+recruitment will make the results more applicable for marginalized populations, who have a disproportionally higher risk
+of COVID-19 development and death. The researchers randomly assigned a total of 515 patients to the remdesivir and
+baricitinib group, while 518 patients took remdesivir and a placebo. They each received remdesivir through an
+intravenous line, with a 200-milligram (mg) loading dose on day 1 and a 100-mg maintenance dose for days 2 through 10.
+Daily, they received 4 mg of baricitinib for 14 days or until they left the hospital. They received the anti-
+inflammatory drug via two oral tablets or through a nasogastric tube. Regardless of the group the patients were in,
+healthcare professionals monitored them all and provided supportive care from day 1 of treatment through day 29.  Trial
+results “Baricitinib plus remdesivir was superior to remdesivir alone in reducing recovery time and accelerating
+improvement in clinical status, notably among patients receiving high-flow oxygen or noninvasive mechanical
+ventilation,” write the study authors. Those who received remdesivir and baricitinib shortened their recovery time by a
+median of 1 day, compared with those who took remdesivir and a placebo. Among those who needed high-flow oxygen or
+noninvasive ventilation, there was a marked difference in recovery times compared with those in the control group. By
+day 15, the health conditions of the patients who took remdesivir and baricitinib appeared to be improving. People in
+the combination treatment group recovered by the 10th day, compared with the 18 days of recovery the scientists observed
+in the placebo group. Although more participants would be necessary to measure a real difference in mortality rates, the
+combination treatment group appeared to have a lower mortality rate than the placebo group. However, more research is
+needed to confirm this.  Safety data and limitations The placebo group reported 28 grade 3 or 4 adverse effects, which
+the investigators confirmed were associated with the treatment, while the combination group reported 25 adverse effects.
+Around 5% of all the participants in the trial experienced hyperglycemia, anemia, decreased lymphocyte counts, and acute
+kidney injury. Due to the differences in trial design and drug biology, the researchers could not compare their findings
+to those of the clinical trial that evaluated the corticosteroid dexamethasone. Dexamethasone has emerged as a leading
+treatment for severe COVID-19. The New England Journal of Medicine published preliminary results of the RECOVERY
+clinical trial, which found that dexamethasone reduced the risk of death in severe COVID-19 cases that required
+treatment with oxygen. As the authors write: “Only a randomized, double-blind, placebo-controlled, head-to-head
+comparison of baricitinib plus remdesivir with dexamethasone plus remdesivir will allow the efficacy and safety
+differences between these two approaches to be fully understood.”

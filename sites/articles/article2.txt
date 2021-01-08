@@ -1,34 +1,34 @@
-Health threat of plastics outlined in authoritative report
-Researchers have highlighted how exposure to plastics can disrupt a person’s endocrine system, causing serious health
-issues. Share on Pinterest Image credit: Group4 Studio/Getty Images In a newly published authoritative report,
-scientists on behalf of the Endocrine Society and the International Pollutants Elimination Network (IPEN) have outlined
-the various ways exposure to plastics can disrupt a person’s endocrine system. The report presents the latest research
-on the types of chemicals that can cause health problems and the plastic products that typically contain them.
-Endocrine disruption According to the Environmental Protection Agency (EPA), the endocrine system describes the various
-components of a person’s body that govern or respond to a person’s hormones. These include glands found in various
-locations in a person’s body, the hormones that these glands secrete, and the organs affected by these hormones. There
-is mounting evidence that a disruption of this system can have severe consequences for a person’s health. A person’s
-endocrine system can be disrupted through exposure to endocrine disrupting chemicals (EDCs). Researchers have shown that
-these can intensify or directly cause many conditions, including obesity, type 2 diabetes, cardiovascular diseases, and
-some types of cancer.  EDCs The present report highlights that, at a conservative estimate, there are more than 1,000
-chemicals widely used today that can disrupt a person’s endocrine system. These chemicals are typically present in
-plastics that can then leech into a person’s body. Plastics containing EDCs are found extensively throughout the world,
-including in packaging, food production, cookware, healthcare settings, children’s toys, furniture, electrical goods,
-textiles, cosmetics, and vehicles. Further, a person can be exposed to EDCs throughout the life span of a plastic
-product, including its manufacture, use, and eventual disposal. The report’s lead author Prof. Jodi Flaws, of the
-University of Illinois at Urbana-Champaign in Urbana, explained: “Many of the plastics we use every day at home and work
-are exposing us to a harmful cocktail of endocrine-disrupting chemicals. Definitive action is needed on a global level
-to protect human health and our environment from these threats.”  Better control of EDCs? The report is preceded by a
-foreword from Franz Xaver Perrez, the Swiss Ambassador for the Environment. In May 2020, Switzerland submitted a
-proposal to the Stockholm Convention — a global instrument for controlling hazardous chemicals — to recognize the
-ultraviolet stabilizer and plastic additive UV-328 as dangerous to health. According to Perrez, “It is our collective
-responsibility to enact public policies to address the clear evidence that EDC in plastics are hazards threatening
-public health and our future.” Despite the growing evidence on the harmful effects of EDCs, regulations on their use
-have so far been limited.  An increasing burden In addition to the current burden that EDCs place on human health, the
-report is particularly urgent given the projections suggesting a significant increase in the near future in the
-manufacture of plastics that contain them. According to Pamela Miller, IPEN co-chair, “This report clarifies that the
-current acceleration of plastic production, projected to increase by 30–36% in the next 6 years, will greatly exacerbate
-EDC exposures and rising global rates of endocrine diseases.” She added: “Global policies to reduce and eliminate EDCs
-from plastic and reduce exposures from plastic recycling, plastic waste, and incineration are imperative. EDCs in
-plastics are an international health issue that is felt acutely in the global south, where toxic plastic waste shipments
-from wealthier countries inundate communities.”
+Meet the bacteria that might help treat diabetes
+The authors of a recent study believe that the medical application of specific gut bacteria might, in the future, help
+treat type 2 diabetes. Share on Pinterest Yothin Sanchai/EyeEm/Getty Images More than 90% of the 34 million people who
+have diabetes in the United States have type 2 diabetes. Individuals with type 2 diabetes do not produce enough insulin,
+or their cells do not respond to it appropriately. As a result, cells do not absorb sugar efficiently, and blood sugar
+level rises. Over time, this can cause damage to internal organs. The Western diet, which is high in saturated fats and
+refined sugars, increases the risk of developing type 2 diabetes. Recently, scientists set out to identify which
+specific gut bacteria species might play a role in this association between diet and diabetes.  Diabetes and gut
+bacteria The gut microbiome includes hundreds of species of bacteria. Scientists have shown that an imbalance in the
+microbiome, or dysbiosis, has associations with adverse health outcomes. One 2019 study suggested that a disturbance in
+the gut microbiome might contribute to the development of type 2 diabetes. A recent paper, which appears in Nature
+Communications, suggests that a small number of specific bacteria might be pivotal. Scientists from Oregon State
+University in Corvallis, OR, the University of Vienna in Austria, the National Cancer Institute, and the National
+Institutes of Health in Bethesda, MD, carried out the research. This paper is important as it shows that specific
+bacteria that are not “keystone” influencers of the whole microbiome may still have an important individual impact on
+health. “The analysis pointed to specific microbes that potentially would affect the way a person metabolizes glucose
+and lipids. Even more importantly, it allowed us to make inferences about whether those effects are harmful or
+beneficial to the host. And we found links between those microbes and obesity.”    – Study co-leader Andrey Morgun
+Impacting metabolism The researchers combined experiments on mice with the analysis of large quantities of data from
+previous research in mice and humans. The scientists gave mice either a regular diet or food equivalent to a Western
+diet. As the researchers expected, mice fed a Western diet developed glucose intolerance and insulin resistance, which
+are contributing factors to type 2 diabetes. They also noted a significant change in the composition of the gut
+microbiome. Researchers then applied a “Transkingdom Network” analysis, which is a data-driven approach that models
+interactions between the microbes and the body to identify which gut bacteria contributed most to the changes in
+metabolism. They managed to narrow down the list to four bacteria that appeared to play a key role in reducing or
+intensifying the harmful effects of a Western diet: Lactobacillus johnsonii, Lactobacillus gasseri, Romboutsia ilealis,
+and Ruminococcus gnavus. Natalia Shulzhenko, an associate professor of biomedical sciences in OSU’s Carlson College of
+Veterinary Medicine and the study’s other co-leader, said: “The first two microbes are considered potential ‘improvers’
+to glucose metabolism, the other two potential ‘worseners.’ The overall indication is that individual types of microbes
+and/or their interactions, and not community-level dysbiosis, are key players in type 2 diabetes.” An analysis of data
+from human research showed that the four bacteria identified in mice also correlates with the body mass index (BMI) of
+people on a Western diet. People who had higher levels of the two “improvers” had a lower BMI; people with more
+“worseners” were more likely to have higher BMI. They also found that R. ilealis was present in more than 80% of people
+with obesity, which suggests that this microbe might contribute to obesity.

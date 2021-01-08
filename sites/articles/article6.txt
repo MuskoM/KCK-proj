@@ -1,37 +1,35 @@
-Remdesivir and baricitinib shortened recovery time from COVID-19
-Results from the ACTT-2 trial reveal that baricitinib combined with remdesivir reduced the recovery time of hospitalized
-COVID-19 patients from 8 to 7 days. The reduced recovery time was even more significant in patients requiring oxygen or
-ventilation. Share on Pinterest ULRICH PERREY/Getty Images As the world rejoiced over the promising results from several
-COVID-19 vaccine candidates, the United States set a new record of 300,000 coronavirus deaths. This was a stark reminder
-that some people cannot wait for a vaccine next spring. The ACTT-2 clinical trial recently investigated the use of both
-remdesivir and baricitinib, which may help with the recovery of hospitalized COVID-19 patients. The findings now appear
-in The New England Journal of Medicine. Stay informed with live updates on the current COVID-19 outbreak and visit our
-coronavirus hub for more advice on prevention and treatment.  Clinical trial design From May 8, 2020, to July 1, 2020,
-the clinical trial enrolled 1,033 people worldwide. Although 48% of the participants were white, 51.4% were Hispanic or
-Latino, 15% were Black, 9.8% were Asian, and 1% were American Indian or Alaska Native. The diversity in trial
-recruitment will make the results more applicable for marginalized populations, who have a disproportionally higher risk
-of COVID-19 development and death. The researchers randomly assigned a total of 515 patients to the remdesivir and
-baricitinib group, while 518 patients took remdesivir and a placebo. They each received remdesivir through an
-intravenous line, with a 200-milligram (mg) loading dose on day 1 and a 100-mg maintenance dose for days 2 through 10.
-Daily, they received 4 mg of baricitinib for 14 days or until they left the hospital. They received the anti-
-inflammatory drug via two oral tablets or through a nasogastric tube. Regardless of the group the patients were in,
-healthcare professionals monitored them all and provided supportive care from day 1 of treatment through day 29.  Trial
-results “Baricitinib plus remdesivir was superior to remdesivir alone in reducing recovery time and accelerating
-improvement in clinical status, notably among patients receiving high-flow oxygen or noninvasive mechanical
-ventilation,” write the study authors. Those who received remdesivir and baricitinib shortened their recovery time by a
-median of 1 day, compared with those who took remdesivir and a placebo. Among those who needed high-flow oxygen or
-noninvasive ventilation, there was a marked difference in recovery times compared with those in the control group. By
-day 15, the health conditions of the patients who took remdesivir and baricitinib appeared to be improving. People in
-the combination treatment group recovered by the 10th day, compared with the 18 days of recovery the scientists observed
-in the placebo group. Although more participants would be necessary to measure a real difference in mortality rates, the
-combination treatment group appeared to have a lower mortality rate than the placebo group. However, more research is
-needed to confirm this.  Safety data and limitations The placebo group reported 28 grade 3 or 4 adverse effects, which
-the investigators confirmed were associated with the treatment, while the combination group reported 25 adverse effects.
-Around 5% of all the participants in the trial experienced hyperglycemia, anemia, decreased lymphocyte counts, and acute
-kidney injury. Due to the differences in trial design and drug biology, the researchers could not compare their findings
-to those of the clinical trial that evaluated the corticosteroid dexamethasone. Dexamethasone has emerged as a leading
-treatment for severe COVID-19. The New England Journal of Medicine published preliminary results of the RECOVERY
-clinical trial, which found that dexamethasone reduced the risk of death in severe COVID-19 cases that required
-treatment with oxygen. As the authors write: “Only a randomized, double-blind, placebo-controlled, head-to-head
-comparison of baricitinib plus remdesivir with dexamethasone plus remdesivir will allow the efficacy and safety
-differences between these two approaches to be fully understood.”
+Might a safer version of a psychedelic help treat depression?
+Research in animals suggests that the new compound is neither toxic nor hallucinogenic and that it may help treat a
+range of psychiatric disorders, including depression and addiction, and possibly anxiety and post-traumatic stress
+disorder (PTSD). Share on Pinterest The psychedelic drug ibogaine is derived from the roots of iboga, pictured above.
+STEEVE JORDAN/Getty Images Ibogaine is a psychedelic drug extracted from the roots of iboga, a shrub native to the
+rainforests of West Africa. While there have been no placebo-controlled clinical trials of ibogaine, anecdotal reports
+and small open-label studies suggest that it can reduce drug cravings and prevent relapse. However, ibogaine is a
+hallucinogen classed as a Schedule I controlled substance in the United States. It is also toxic and can cause cardiac
+arrhythmia. Researchers have linked the use of ibogaine to several deaths. David Olson, an assistant professor of
+biochemistry and molecular medicine at the University of California, Davis, and colleagues set out to create a safer
+version of ibogaine that retains its anti-addictive properties but is neither toxic nor hallucinogenic. They report
+their findings in the journal Nature.  Promoting plasticity Olson’s lab, one of only a few in the United States licensed
+to work with Schedule I substances, investigates psychoplastogens — molecules such as the psychedelics ibogaine and DMT
+that promote neural plasticity, or the capacity of the brain to rewire and regain some of its former flexibility.
+“Psychedelics are some of the most powerful drugs we know of that affect the brain,” says Olson, the senior author of
+the study paper. “It’s unbelievable how little we know about them.” First, Olson and colleagues identified the parts of
+the ibogaine molecule that may be responsible for its therapeutic effects. They then engineered these features into a
+new molecule: tabernanthalog (TBG).    They derived the name from the Latin name for this group of plants, Tabernanthe
+iboga, meaning “tavern flower.” Unlike ibogaine, TBG is water-soluble, which may make it less toxic and less likely to
+adversely affect the heart. It can also be synthesized in a lab in a single step. When the researchers tested TBG on
+zebrafish, they found it to be less toxic than ibogaine. In cultures of rat nerve cells, TBG increased the formation of
+new nerve branches, or dendrites. It also promoted the growth of new dendritic spines, the tiny protuberances that
+receive signals from other nerves. Other drugs that increase neural plasticity, such as ketamine and DMT, have similar
+effects on nerve cells.  Addiction and depression Next, the researchers tested their new compound in several animal
+models of addiction and depression. In a standard test designed to model binge drinking in humans, mice trained to crave
+alcohol consumed less after a single dose of TBG. TBG also reduced signs of opiate withdrawal in rats, which can be
+conditioned to press a lever to get a dose of heroin whenever they see a light and hear a tone. When the animals no
+longer get the drug on cue, they develop signs of withdrawal and repeatedly press the lever. The researchers found that
+administering TBG reduced this behavior and led to a lasting reduction in relapse behavior when the cues were repeated.
+Finally, the team used a mouse model of depression called the forced swim test to investigate the potential
+antidepressant properties of TBG. They found that TBG was as effective as ketamine, an antidepressant that also promotes
+neuroplasticity, though its effects did not last as long. Olson believes that TBG may change key brain circuits that
+underlie not only depression, but also anxiety, PTSD, and addiction. “We’ve been focused on treating one psychiatric
+disease at a time, but we know that these illnesses overlap,” Olson said. “It might be possible to treat multiple
+diseases with the same drug.”

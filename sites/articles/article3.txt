@@ -1,35 +1,16 @@
-Might a safer version of a psychedelic help treat depression?
-Research in animals suggests that the new compound is neither toxic nor hallucinogenic and that it may help treat a
-range of psychiatric disorders, including depression and addiction, and possibly anxiety and post-traumatic stress
-disorder (PTSD). Share on Pinterest The psychedelic drug ibogaine is derived from the roots of iboga, pictured above.
-STEEVE JORDAN/Getty Images Ibogaine is a psychedelic drug extracted from the roots of iboga, a shrub native to the
-rainforests of West Africa. While there have been no placebo-controlled clinical trials of ibogaine, anecdotal reports
-and small open-label studies suggest that it can reduce drug cravings and prevent relapse. However, ibogaine is a
-hallucinogen classed as a Schedule I controlled substance in the United States. It is also toxic and can cause cardiac
-arrhythmia. Researchers have linked the use of ibogaine to several deaths. David Olson, an assistant professor of
-biochemistry and molecular medicine at the University of California, Davis, and colleagues set out to create a safer
-version of ibogaine that retains its anti-addictive properties but is neither toxic nor hallucinogenic. They report
-their findings in the journal Nature.  Promoting plasticity Olson’s lab, one of only a few in the United States licensed
-to work with Schedule I substances, investigates psychoplastogens — molecules such as the psychedelics ibogaine and DMT
-that promote neural plasticity, or the capacity of the brain to rewire and regain some of its former flexibility.
-“Psychedelics are some of the most powerful drugs we know of that affect the brain,” says Olson, the senior author of
-the study paper. “It’s unbelievable how little we know about them.” First, Olson and colleagues identified the parts of
-the ibogaine molecule that may be responsible for its therapeutic effects. They then engineered these features into a
-new molecule: tabernanthalog (TBG).    They derived the name from the Latin name for this group of plants, Tabernanthe
-iboga, meaning “tavern flower.” Unlike ibogaine, TBG is water-soluble, which may make it less toxic and less likely to
-adversely affect the heart. It can also be synthesized in a lab in a single step. When the researchers tested TBG on
-zebrafish, they found it to be less toxic than ibogaine. In cultures of rat nerve cells, TBG increased the formation of
-new nerve branches, or dendrites. It also promoted the growth of new dendritic spines, the tiny protuberances that
-receive signals from other nerves. Other drugs that increase neural plasticity, such as ketamine and DMT, have similar
-effects on nerve cells.  Addiction and depression Next, the researchers tested their new compound in several animal
-models of addiction and depression. In a standard test designed to model binge drinking in humans, mice trained to crave
-alcohol consumed less after a single dose of TBG. TBG also reduced signs of opiate withdrawal in rats, which can be
-conditioned to press a lever to get a dose of heroin whenever they see a light and hear a tone. When the animals no
-longer get the drug on cue, they develop signs of withdrawal and repeatedly press the lever. The researchers found that
-administering TBG reduced this behavior and led to a lasting reduction in relapse behavior when the cues were repeated.
-Finally, the team used a mouse model of depression called the forced swim test to investigate the potential
-antidepressant properties of TBG. They found that TBG was as effective as ketamine, an antidepressant that also promotes
-neuroplasticity, though its effects did not last as long. Olson believes that TBG may change key brain circuits that
-underlie not only depression, but also anxiety, PTSD, and addiction. “We’ve been focused on treating one psychiatric
-disease at a time, but we know that these illnesses overlap,” Olson said. “It might be possible to treat multiple
-diseases with the same drug.”
+Researchers identify 6 types of prediabetes
+The study could lead to the development of more personalized interventions that prevent at-risk individuals from
+developing type 2 diabetes.  Share on Pinterest Luis Alvarez/Getty Images  People with prediabetes have consistently
+high blood sugar levels but have yet to develop the symptoms of type 2 diabetes.  Over many years, the cells of people
+with this condition become increasingly resistant to the effects of insulin, the hormone that regulates blood sugar
+levels.  The transition to type 2 diabetes occurs when the pancreas can no longer compensate for this resistance by
+producing more insulin.  According to the Centers for Disease Control and Prevention (CDC), approximately 88 million
+adults in the United States have prediabetes, which not only increases their risk of type 2 diabetes, but also of heart
+disease and stroke.  More than 84% of individuals with prediabetes are unaware that they have it, the CDC report.  For
+people with prediabetes, strategies such as losing weight, having a more healthful diet, getting more exercise, and
+lowering levels of stress can reduce the risk of developing type 2 diabetes by up to 58%.  Among people over 60,
+lifestyle changes such as these can reduce the chances of developing diabetes even further, by as much as 71%.  But
+people with prediabetes are not a homogenous group. Now, a new study has identified six broad categories, with important
+differences in terms of outlook and the kinds of interventions that could delay or prevent diabetes.  Researchers at
+various institutions in Germany, including the University of Tübingen and the German Center for Diabetes Research, in
+Neuherberg, led the study, which has been published in Nature Medicine.
