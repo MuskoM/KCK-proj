@@ -1,32 +1,4 @@
-Adapted yellow fever vaccine may protect against COVID-19
-The genetically altered yellow fever vaccine was highly effective in animals. If it passes clinical trials, the new
-vaccine would have some advantages over other SARS-CoV-2 vaccines. Share on Pinterest undefined/Getty Images The
-research suggests that the newly developed vaccine would not only protect against COVID-19 but also against yellow
-fever. In addition, it appears to provide protection after a single shot, whereas SARS-CoV-2 vaccines such as the one
-that Pfizer and BioNTech have developed require two doses 1 month apart. “This has important logistical implications, in
-particular for countries with a less advanced medical system,” explains Prof. Johan Neyts, from the Rega Institute at KU
-Leuven in Belgium. Prof. Neyts is one of the virologists who led the research. Stay informed with live updates on the
-current COVID-19 outbreak and visit our coronavirus hub for more advice on prevention and treatment. Prof. Neyts also
-believes that the vaccine may offer long lasting immunity against COVID-19. “It could therefore be an ideal candidate
-for repeat vaccinations when immunity decreases in people who have received one of the first-generation vaccines,” he
-says. The study, which appears in the journal Nature and as a preprint, suggests that a single shot of the vaccine
-protected hamsters against SARS-CoV-2, which is the virus that causes COVID-19. It also protected mice and monkeys. The
-team is now preparing to conduct clinical trials of the new vaccine, which is provisionally called RegaVax, in 2021.
-Established vaccine The standard yellow fever vaccine, known as YF17D, has been in use for 80 years and has a good
-safety record. It delivers a live, “attenuated” (weakened) strain of the yellow fever virus. The team at KU Leuven had
-previously used the same virus as the basis of candidate vaccines against the Zika, Ebola, and rabies viruses. The
-scientists use the yellow fever virus as a “vector” to deliver fragments of genetic material from other viruses. The
-fragments provoke a targeted immune response and long-term immunity to future infections. Vaccines that employ the
-yellow fever virus as a vector are already licensed for use against Japanese encephalitis and dengue viruses. To create
-their SARS-CoV-2 vaccine, the virologists at KU Leuven inserted a genetic sequence from SARS-CoV-2 into the yellow fever
-virus. The sequence is a blueprint for SARS-CoV-2 spike proteins, which give the virus its characteristic crown-like
-appearance. When host cells become infected with the weakened yellow fever virus, they make copies of the spike, which,
-in turn, provoke an immune response.  Hamster model of COVID-19 To test the vaccine, the researchers gave a single dose
-to hamsters, which are an established model of SARS-CoV-2 infection. When they dripped a solution of SARS-CoV-2 into
-some of the animals’ noses 10 days later, most were immune to infection. Around 3 weeks after vaccination, all the
-animals the researchers tested were immune. None of the vaccinated hamsters developed any signs of lung infection,
-whereas hamsters that received the inactive control vaccine showed clear signs of lung disease. The researchers also
-tested the vaccine in monkeys. They detected low blood levels of “neutralizing” antibodies, which disable the virus, 7
-days after vaccination. After 14 days, however, there were high concentrations in the animals’ blood. “This is very
-fast,” says Prof. Neyts. “Moreover, in the vaccinated animals, the virus was completely or nearly completely gone from
-their throats.”
+Główny Inspektorat Sanitarny
+W celu świadczenia usług na najwyższym poziomie stosujemy pliki cookies. Korzystanie z naszej witryny oznacza, że będą
+one zamieszczane w Państwa urządzeniu. W każdym momencie można dokonać zmiany ustawień Państwa przeglądarki. Zobacz
+politykę cookies.

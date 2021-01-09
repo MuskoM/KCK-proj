@@ -9,9 +9,10 @@ if __name__ == '__main__':
 
     # App = MyApp()
     # App.run()
-    root = ThemedTk(theme="clam")
+    root = tk.Tk()
 
     app = MainWindow(master=root)
+    root.config(bg="#666666")
     app.master.title("My app")
     app.mainloop()
 

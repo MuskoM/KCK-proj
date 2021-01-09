@@ -1,40 +1,69 @@
-Large study finds clear association between fitness and mental health
-New research from a large study demonstrates that low cardiorespiratory fitness and muscle strength have a significant
-association with worse mental health. Share on Pinterest Luis Alvarez / Getty Images Researchers have reported a clear
-link between low physical fitness and the risk of experiencing symptoms of depression, anxiety, or both. The study,
-which included more than 150,000 participants, found that cardiorespiratory fitness and muscle strength independently
-contribute to a greater risk of worse mental health. However, the researchers saw the most significant association when
-they looked at cardiorespiratory fitness and muscle strength in combination. The research, which appears in the journal
-BMC Medicine, may help inform clinical guidance on mental health and physical fitness.  Physical and mental health
-Problems with mental health, just like physical health issues, can have a significant negative effect on a person’s
-life. Two of the more common mental health conditions are anxiety and depression. According to the Anxiety and
-Depression Association of America, 18.1% of adults in the United States have experienced an anxiety disorder in the past
-year. In addition, the National Institute of Mental Health note that 7.1% of U.S. adults have had a major depressive
-episode. There is growing evidence that being physically active may help prevent or treat mental health conditions.
-However, many questions still need answering. For example, what measures should researchers use to quantify physical
-activity? In what ways can it prevent mental health issues or improve a person’s mental health? And is it possible to
-demonstrate a causal link between physical activity and better mental health? It is important to have detailed evidence
-of the relationship between physical activity and mental health, as well as the mechanisms that might underlie it. With
-this information, clinicians can offer more targeted guidance to people with mental health conditions. To begin to
-answer some of these questions, a team of researchers analyzed an existing large dataset that allowed them to build on
-their understanding of the association between physical fitness and mental health.  A study of 152,978 participants In
-the present study, the researchers drew on data from the U.K. Biobank — a data repository comprising information from
-more than 500,000 volunteers aged 40–69 years from England, Wales, and Scotland. Between August 2009 and December 2010,
-a subset of the U.K. Biobank participants — amounting to 152,978 participants — underwent tests to measure their
-fitness. Investigators assessed the participants’ cardiorespiratory fitness by monitoring their heart rate before,
-during, and after a 6-minute submaximal exercise test on a stationary bicycle. They also measured the volunteers’ grip
-strength, which the researchers of the present study used as a proxy for muscle strength. Alongside these physical
-fitness tests, the participants completed two standard clinical questionnaires relating to anxiety and depression to
-give the researchers an overview of their mental health. After 7 years, the researchers assessed each person’s anxiety
-and depression again using the same two clinical questionnaires. In their analysis, the researchers accounted for
-potential confounding factors, such as age, natal sex, previous mental health issues, smoking status, income level,
-physical activity, educational experience, parental depression, and diet.  A clear correlation The researchers found a
-significant correlation between the participants’ initial physical fitness and their mental health 7 years later.
-Participants who were classified as having low combined cardiorespiratory fitness and muscle strength had 98% higher
-odds of experiencing depression and 60% higher odds of experiencing anxiety. The researchers also looked at the separate
-correlations between mental health and cardiorespiratory fitness, and mental health and muscle strength. They found that
-each measure of fitness was individually associated with a change in risk but less significantly so than the combination
-of measures. According to Aaron Kandola, the lead author of the study and a doctoral candidate in the Division of
-Psychiatry at University College London, United Kingdom: “Here, we have provided further evidence of a relationship
-between physical and mental health and that structured exercise aimed at improving different types of fitness is not
-only good for your physical health, but may also have mental health benefits.” – Aaron Kandola
+Raport zakażeń koronawirusem (SARS-CoV-2)
+W celu świadczenia usług na najwyższym poziomie stosujemy pliki cookies. Korzystanie z naszej witryny oznacza, że będą
+one zamieszczane w Państwa urządzeniu. W każdym momencie można dokonać zmiany ustawień Państwa przeglądarki. Zobacz
+politykę cookies.  dowiedz się więcej  Koronawirus: szczepienia i ważne informacje
+{"description":"","data":"Województwo;Liczba;Liczba na 10 tys. mieszkańców;Wszystkie przypadki śmiertelne;Przypadki
+śmiertelne w wyniku Covid;Przypadki śmiertelne w wyniku chorób współistniejących;id\r  Cały
+kraj;10548;2,75;438;100;338;t00\r  dolnośląskie;514;1,77;22;14;8;t02\r  kujawsko-pomorskie;886;4,28;59;5;54;t04\r
+lubelskie;512;2,43;32;10;22;t06\r  lubuskie;293;2,9;7;4;3;t08\r  łódzkie;702;2,87;29;1;28;t10\r
+małopolskie;418;1,22;13;9;4;t12\r  mazowieckie;1333;2,46;44;14;30;t14\r  opolskie;195;1,99;8;0;8;t16\r
+podkarpackie;291;1,37;11;2;9;t18\r  podlaskie;298;2,53;17;0;17;t20\r  pomorskie;977;4,16;27;5;22;t22\r
+śląskie;836;1,85;38;7;31;t24\r  świętokrzyskie;154;1,25;13;1;12;t26\r  warmińsko-mazurskie;928;6,53;27;8;19;t28\r
+wielkopolskie;1151;3,29;54;19;35;t30\r  zachodniopomorskie;843;4,98;37;1;36;t32\r
+","parsedData":"[{\"Województwo\":\"Cały kraj\",\"Liczba\":\"10548\",\"Liczba na 10 tys.
+mieszkańców\":\"2,75\",\"Wszystkie przypadki śmiertelne\":\"438\",\"Przypadki śmiertelne w wyniku
+Covid\":\"100\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"338\",\"id\":\"t00\"},{\"Województwo\":\"dolnośląskie\",\"Liczba\":\"514\",\"Liczba na 10 tys.
+mieszkańców\":\"1,77\",\"Wszystkie przypadki śmiertelne\":\"22\",\"Przypadki śmiertelne w wyniku
+Covid\":\"14\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"8\",\"id\":\"t02\"},{\"Województwo\":\"kujawsko-pomorskie\",\"Liczba\":\"886\",\"Liczba na 10 tys.
+mieszkańców\":\"4,28\",\"Wszystkie przypadki śmiertelne\":\"59\",\"Przypadki śmiertelne w wyniku
+Covid\":\"5\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"54\",\"id\":\"t04\"},{\"Województwo\":\"lubelskie\",\"Liczba\":\"512\",\"Liczba na 10 tys.
+mieszkańców\":\"2,43\",\"Wszystkie przypadki śmiertelne\":\"32\",\"Przypadki śmiertelne w wyniku
+Covid\":\"10\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"22\",\"id\":\"t06\"},{\"Województwo\":\"lubuskie\",\"Liczba\":\"293\",\"Liczba na 10 tys.
+mieszkańców\":\"2,9\",\"Wszystkie przypadki śmiertelne\":\"7\",\"Przypadki śmiertelne w wyniku Covid\":\"4\",\"Przypadki
+śmiertelne w wyniku chorób
+współistniejących\":\"3\",\"id\":\"t08\"},{\"Województwo\":\"łódzkie\",\"Liczba\":\"702\",\"Liczba na 10 tys.
+mieszkańców\":\"2,87\",\"Wszystkie przypadki śmiertelne\":\"29\",\"Przypadki śmiertelne w wyniku
+Covid\":\"1\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"28\",\"id\":\"t10\"},{\"Województwo\":\"małopolskie\",\"Liczba\":\"418\",\"Liczba na 10 tys.
+mieszkańców\":\"1,22\",\"Wszystkie przypadki śmiertelne\":\"13\",\"Przypadki śmiertelne w wyniku
+Covid\":\"9\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"4\",\"id\":\"t12\"},{\"Województwo\":\"mazowieckie\",\"Liczba\":\"1333\",\"Liczba na 10 tys.
+mieszkańców\":\"2,46\",\"Wszystkie przypadki śmiertelne\":\"44\",\"Przypadki śmiertelne w wyniku
+Covid\":\"14\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"30\",\"id\":\"t14\"},{\"Województwo\":\"opolskie\",\"Liczba\":\"195\",\"Liczba na 10 tys.
+mieszkańców\":\"1,99\",\"Wszystkie przypadki śmiertelne\":\"8\",\"Przypadki śmiertelne w wyniku
+Covid\":\"0\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"8\",\"id\":\"t16\"},{\"Województwo\":\"podkarpackie\",\"Liczba\":\"291\",\"Liczba na 10 tys.
+mieszkańców\":\"1,37\",\"Wszystkie przypadki śmiertelne\":\"11\",\"Przypadki śmiertelne w wyniku
+Covid\":\"2\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"9\",\"id\":\"t18\"},{\"Województwo\":\"podlaskie\",\"Liczba\":\"298\",\"Liczba na 10 tys.
+mieszkańców\":\"2,53\",\"Wszystkie przypadki śmiertelne\":\"17\",\"Przypadki śmiertelne w wyniku
+Covid\":\"0\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"17\",\"id\":\"t20\"},{\"Województwo\":\"pomorskie\",\"Liczba\":\"977\",\"Liczba na 10 tys.
+mieszkańców\":\"4,16\",\"Wszystkie przypadki śmiertelne\":\"27\",\"Przypadki śmiertelne w wyniku
+Covid\":\"5\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"22\",\"id\":\"t22\"},{\"Województwo\":\"śląskie\",\"Liczba\":\"836\",\"Liczba na 10 tys.
+mieszkańców\":\"1,85\",\"Wszystkie przypadki śmiertelne\":\"38\",\"Przypadki śmiertelne w wyniku
+Covid\":\"7\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"31\",\"id\":\"t24\"},{\"Województwo\":\"świętokrzyskie\",\"Liczba\":\"154\",\"Liczba na 10 tys.
+mieszkańców\":\"1,25\",\"Wszystkie przypadki śmiertelne\":\"13\",\"Przypadki śmiertelne w wyniku
+Covid\":\"1\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"12\",\"id\":\"t26\"},{\"Województwo\":\"warmińsko-mazurskie\",\"Liczba\":\"928\",\"Liczba na 10
+tys. mieszkańców\":\"6,53\",\"Wszystkie przypadki śmiertelne\":\"27\",\"Przypadki śmiertelne w wyniku
+Covid\":\"8\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"19\",\"id\":\"t28\"},{\"Województwo\":\"wielkopolskie\",\"Liczba\":\"1151\",\"Liczba na 10 tys.
+mieszkańców\":\"3,29\",\"Wszystkie przypadki śmiertelne\":\"54\",\"Przypadki śmiertelne w wyniku
+Covid\":\"19\",\"Przypadki śmiertelne w wyniku chorób
+współistniejących\":\"35\",\"id\":\"t30\"},{\"Województwo\":\"zachodniopomorskie\",\"Liczba\":\"843\",\"Liczba na 10
+tys. mieszkańców\":\"4,98\",\"Wszystkie przypadki śmiertelne\":\"37\",\"Przypadki śmiertelne w wyniku
+Covid\":\"1\",\"Przypadki śmiertelne w wyniku chorób współistniejących\":\"36\",\"id\":\"t32\"}]","fileName":"2021010905
+4544_rap_gov_woj_eksport_pop.csv","hideDetails":true,"fileType":"CSV","columns":[{"name":"Województwo","type":"SEARCH","
+width":20},{"name":"Liczba","type":"SIMPLE","width":15},{"name":"Liczba na 10 tys.
+mieszkańców","type":"SIMPLE","width":15},{"name":"Wszystkie przypadki
+śmiertelne","type":"SIMPLE","width":15},{"name":"Przypadki śmiertelne w wyniku
+Covid","type":"SIMPLE","width":15,"summary":false},{"name":"Przypadki śmiertelne w wyniku chorób współistniejących","typ
+e":"SIMPLE","width":15,"summary":false},{"name":"id","type":"DETAILS","width":10,"summary":false}]}
